@@ -1,5 +1,5 @@
 {
-    "changelog":  "v1.0.11 (2026-06-01 00:56)\r\n\r\nRemoved (1):\r\n  -",
+    "changelog":  "v1.0.12 (2026-06-01 00:58)\r\n\r\nNo changes.",
     "files":  [
                   {
                       "prefix":  "011a8b84",
@@ -738,7 +738,7 @@
                   }
               ],
     "remove":  [
-                   null
+
                ],
-    "version":  "1.0.11"
+    "version":  "1.0.12"
 }
