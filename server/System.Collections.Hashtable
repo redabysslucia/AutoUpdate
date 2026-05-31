@@ -1,0 +1,744 @@
+{
+    "changelog":  "v1.0.1 (2026-05-31 21:49)\r\n\r\nNo changes.",
+    "files":  [
+                  {
+                      "prefix":  "1a8d89a6",
+                      "path":  "mods/1a8d89a6_[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+                      "sha256":  "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
+                  },
+                  {
+                      "prefix":  "dfd25399",
+                      "path":  "mods/dfd25399_[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                      "sha256":  "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+                  },
+                  {
+                      "prefix":  "011a8b84",
+                      "path":  "mods/011a8b84_【军武】CBC-Military-Supplement-1.21.1-2.0.12.jar",
+                      "sha256":  "970add6ec044b76b9bb3a61ba7d05812b6e7e1e246f78dea8362bfe74476227f"
+                  },
+                  {
+                      "prefix":  "01ccf415",
+                      "path":  "mods/01ccf415_【动态螺旋桨】AeroPropBlur-1.21.1-1.0a.jar",
+                      "sha256":  "5efc1fd59e42f1cb86bce4bed04fc026a70cc2b5b8c9d0ffe6097475d4526ad7"
+                  },
+                  {
+                      "prefix":  "08afdb72",
+                      "path":  "mods/08afdb72_【陀螺仪】aeroworks-1.2.10.jar",
+                      "sha256":  "48ddad7353f426e8fe0bafb44cbfd9435511b899b3be3942decfb340d2af88d6"
+                  },
+                  {
+                      "prefix":  "0f755f35",
+                      "path":  "mods/0f755f35_【碰炸引信物理修复】cbc_fuze_sable_fix-1.0.1.jar",
+                      "sha256":  "c90f4c8777bc032775a1d158dc5b89f2c4a7ff9687b02e33db4d81308cef5e0f"
+                  },
+                  {
+                      "prefix":  "10fa41bc",
+                      "path":  "mods/10fa41bc_forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+                      "sha256":  "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+                  },
+                  {
+                      "prefix":  "144eacfd",
+                      "path":  "mods/144eacfd_cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+                      "sha256":  "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
+                  },
+                  {
+                      "prefix":  "1525b14c",
+                      "path":  "mods/1525b14c_【森罗物语：兼容】kaleidoscope_compat-2.7.6-neoforge+mc1.21.1.jar",
+                      "sha256":  "352565eab965b1ab53766ff441e0f7505d8c415d53c3ec12c741e1984800bd15"
+                  },
+                  {
+                      "prefix":  "15a444dc",
+                      "path":  "mods/15a444dc_【更好的延迟显示】BetterPingDisplay-1.21.1-1.1.jar",
+                      "sha256":  "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b"
+                  },
+                  {
+                      "prefix":  "174e2945",
+                      "path":  "mods/174e2945_【现代战争】cbcmodernwarfare-0.0.6m+mc.1.21.1-neoforge.jar",
+                      "sha256":  "cea9f4fd85bff04480c71ef40d587d679b580a63b67e26a79ce8dd79fcf67d0b"
+                  },
+                  {
+                      "prefix":  "17716fe2",
+                      "path":  "mods/17716fe2_sable-schematic-api-0.2.6.jar",
+                      "sha256":  "7694e38d73249defa9d6e1aa7d35a0e1e106c0cbedc460efe40441196f0635a9"
+                  },
+                  {
+                      "prefix":  "1942b7c5",
+                      "path":  "mods/1942b7c5_【气压】flyhigher-1.21.1-1.0.2.jar",
+                      "sha256":  "15bb5bb44edb53878664ddf809ba073802be700c55f5f166441857b2433a2083"
+                  },
+                  {
+                      "prefix":  "1b26d0d8",
+                      "path":  "mods/1b26d0d8_【可攀爬绳索】climbable_ropes-2.0.1.jar",
+                      "sha256":  "787c6d0c3abd06fdc08d8322c0f21fb26c15cff985d3d5b69c9eaa6e272f94cf"
+                  },
+                  {
+                      "prefix":  "1d263b0b",
+                      "path":  "mods/1d263b0b_【履带】aero_no_horizon-1.0.0-beta.jar",
+                      "sha256":  "5f5e4ffacc59eb1a5adfa35b20011b6e6274ba825e7b7b483922551d01fbcf5a"
+                  },
+                  {
+                      "prefix":  "1ef46df5",
+                      "path":  "mods/1ef46df5_【汽鸣铁道】railways-0.2.0+neoforge-mc1.21.1.jar",
+                      "sha256":  "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+                  },
+                  {
+                      "prefix":  "1f477bc1",
+                      "path":  "mods/1f477bc1_【跑酷！】ParCool-1.21.1-3.4.3.3-NF.jar",
+                      "sha256":  "023774b63cbacf9f17ea6404a212ec2e4e4f9777f1b7bbaea8fbb62f3f0463db"
+                  },
+                  {
+                      "prefix":  "1f85591e",
+                      "path":  "mods/1f85591e_Axiom-5.3.0-for-MC1.21.1.jar",
+                      "sha256":  "2e4ea14974bf656904885bc3272bba27a7e8cad6e8c33e47c248bec05078f774"
+                  },
+                  {
+                      "prefix":  "20856ab3",
+                      "path":  "mods/20856ab3_ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+                      "sha256":  "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+                  },
+                  {
+                      "prefix":  "23b7f878",
+                      "path":  "mods/23b7f878_【自动驾驶】create_aeronautics_automated_logistics-0.3.0.jar",
+                      "sha256":  "d82198d1d9e3fe2ecb8de65b3da088d8ce3115df1e1442d6c08ad1e10cb9edaf"
+                  },
+                  {
+                      "prefix":  "266e0d3d",
+                      "path":  "mods/266e0d3d_[信雅互联] connector-2.0.0-beta.14+1.21.1-full.jar",
+                      "sha256":  "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
+                  },
+                  {
+                      "prefix":  "288b938d",
+                      "path":  "mods/288b938d_geckolib-neoforge-1.21.1-4.8.4.jar",
+                      "sha256":  "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+                  },
+                  {
+                      "prefix":  "28ce6073",
+                      "path":  "mods/28ce6073_architectury-13.0.8-neoforge (1).jar",
+                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+                  },
+                  {
+                      "prefix":  "2c1d5ce9",
+                      "path":  "mods/2c1d5ce9_【机械动力火炮：先进技术】cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+                      "sha256":  "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f"
+                  },
+                  {
+                      "prefix":  "2e212c7b",
+                      "path":  "mods/2e212c7b_[机械动力：末影传输] createendertransmission-2.1.1-1.21.1.jar",
+                      "sha256":  "13f237796ba51312a385ebd55b252c55598d49bcf677ea68f0bfb9bd88c23b63"
+                  },
+                  {
+                      "prefix":  "2f9d9655",
+                      "path":  "mods/2f9d9655_【跨结构传输】VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+                      "sha256":  "1cc8953b1aa239a11a4a4e329f886a1d7e00cbc5e8ada5d546527bbd9d46abd4"
+                  },
+                  {
+                      "prefix":  "3008c780",
+                      "path":  "mods/3008c780_framework-neoforge-1.21.1-0.13.11.jar",
+                      "sha256":  "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
+                  },
+                  {
+                      "prefix":  "32b8961c",
+                      "path":  "mods/32b8961c_[预生成区块] Chunky-NeoForge-1.4.23.jar",
+                      "sha256":  "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+                  },
+                  {
+                      "prefix":  "36b45d31",
+                      "path":  "mods/36b45d31_【MrCrayfish 的家具：重制】refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+                      "sha256":  "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
+                  },
+                  {
+                      "prefix":  "382384c7",
+                      "path":  "mods/382384c7_【军武】CBCmoreshells-1.1.1.jar",
+                      "sha256":  "0c0f3def7fc6e266df917ece1ebbcd03df9f3224c5ecbd5b96b32190c83282b9"
+                  },
+                  {
+                      "prefix":  "38c81e66",
+                      "path":  "mods/38c81e66_【区块加载器】aeronauticadditions_neoforge_mc_1.21.1-1.1.1.jar",
+                      "sha256":  "fb5e176f7eb08e6c7d150219eabc07e8b95bfaa26b3ebf74f08289769adc2dd9"
+                  },
+                  {
+                      "prefix":  "3b5e3146",
+                      "path":  "mods/3b5e3146_【UI库】ldlib2-neoforge-1.21.1-2.2.13-all.jar",
+                      "sha256":  "418290a09057fc7e28fd96ef697fa409d62cd6ad052d1d00c6fda37c8a1d12bd"
+                  },
+                  {
+                      "prefix":  "4185ebae",
+                      "path":  "mods/4185ebae_【蓝图重量对称】better_contraption_diagram-1.0.0-a.jar",
+                      "sha256":  "949507fc494b72a7b3b6bb544109ecbff88fa0ee9ebc04334dabb5078e875829"
+                  },
+                  {
+                      "prefix":  "41a132d0",
+                      "path":  "mods/41a132d0_【气室】create_submarine-2.1.3.jar",
+                      "sha256":  "734bef3d708b4ccb35f2196193f3af217a10ddcfc78a97493da3245822c56d2b"
+                  },
+                  {
+                      "prefix":  "421865a7",
+                      "path":  "mods/421865a7_[网络音乐机：播放列表] net_music_list-2.3.4.jar",
+                      "sha256":  "7aeeea7a21a656337a1a0e1b1e5775157cfa222974dc2998fc4f991dcbdf6ee0"
+                  },
+                  {
+                      "prefix":  "4505174c",
+                      "path":  "mods/4505174c_【森罗物语：厨房】kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
+                      "sha256":  "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff"
+                  },
+                  {
+                      "prefix":  "459f6263",
+                      "path":  "mods/459f6263_【chipped前置】athena-neoforge-1.21.1-4.0.6.jar",
+                      "sha256":  "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+                  },
+                  {
+                      "prefix":  "473f2111",
+                      "path":  "mods/473f2111_【投掷航空学绳索】create_aeronautics_throwable_rope_connector-0.3.0.jar",
+                      "sha256":  "65fe991794a95e5b9d2f7bd5c117e2dd8fbb2b9c24b59f9afcd9d6080158e9ff"
+                  },
+                  {
+                      "prefix":  "4799ecfb",
+                      "path":  "mods/4799ecfb_【网络音乐机】netmusic-1.5.1-neoforge+mc1.21.1.jar",
+                      "sha256":  "54d5bd0a82af2d4e2b1cbe03d45fb2962d242ec6deca0e5b016d3092ce74dcdb"
+                  },
+                  {
+                      "prefix":  "496e4caf",
+                      "path":  "mods/496e4caf_【勾爪】grapplemod-1.1+1.21.1.neoforge.jar",
+                      "sha256":  "6e973cff926db4b70cf36b745933ebdc1469e2c02eefd245f9c2fe3bf2eb1248"
+                  },
+                  {
+                      "prefix":  "4b0a0dac",
+                      "path":  "mods/4b0a0dac_[机械动力：创意传动] create_connected-1.2.0-mc1.21.1.jar",
+                      "sha256":  "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62"
+                  },
+                  {
+                      "prefix":  "4d4bb3ab",
+                      "path":  "mods/4d4bb3ab_tweakerge-0.4.3+mc1.21.1.jar",
+                      "sha256":  "c19f6e2200dd21b32b90119098a0608692605c4ced91146e67ea61e0e9855277"
+                  },
+                  {
+                      "prefix":  "511b6c37",
+                      "path":  "mods/511b6c37_【锂】lithium-neoforge-0.15.3+mc1.21.1.jar",
+                      "sha256":  "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+                  },
+                  {
+                      "prefix":  "52e78cd6",
+                      "path":  "mods/52e78cd6_【可变属性伪装方块】sim_copycats-1.1.6.jar",
+                      "sha256":  "2e37fb6157cc70248abe3fc3aed6404e6847d1fee18bae2328fff1d90250e8d6"
+                  },
+                  {
+                      "prefix":  "564cae55",
+                      "path":  "mods/564cae55_【饰品航空学兼容】createaeronauticscurios-neoforge-1.21.1-1.0.jar",
+                      "sha256":  "8f9c789bdb2cf65264cf1f3dc88201583d96fe726d64920c99e638a93de75ba3"
+                  },
+                  {
+                      "prefix":  "56bd86dd",
+                      "path":  "mods/56bd86dd_【自定义局域网联机】lanserverproperties-1.13.2-neoforge.jar",
+                      "sha256":  "7a0a065c7412116d8202d48ed05a475e6ac096cff798c99948f17b7140afdb10"
+                  },
+                  {
+                      "prefix":  "56d7b7f2",
+                      "path":  "mods/56d7b7f2_【可变重量方块】CreateAeronauticsVariableWeightBlock-1.21.1-1.0.0.jar",
+                      "sha256":  "f9fc9ba1cdc15510782140ef8ff674bfeabb5ef251d8173b179a99b6ebc64420"
+                  },
+                  {
+                      "prefix":  "579421cc",
+                      "path":  "mods/579421cc_【推进器】createpropulsion-1.1.4.jar",
+                      "sha256":  "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+                  },
+                  {
+                      "prefix":  "57f10a5d",
+                      "path":  "mods/57f10a5d_【车万女仆】touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+                      "sha256":  "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27"
+                  },
+                  {
+                      "prefix":  "588360c1",
+                      "path":  "mods/588360c1_【沉浸式奏乐】immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                      "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972"
+                  },
+                  {
+                      "prefix":  "590b6cb9",
+                      "path":  "mods/590b6cb9_【万向节】create_aeronautics_transmission_linkage-0.2.3.jar",
+                      "sha256":  "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92"
+                  },
+                  {
+                      "prefix":  "59fff2d6",
+                      "path":  "mods/59fff2d6_gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.3.jar",
+                      "sha256":  "efe50cab90043285fa1f6735cda4b742345871b6b15713e6581fa8df5420c8bb"
+                  },
+                  {
+                      "prefix":  "5c9db47e",
+                      "path":  "mods/5c9db47e_Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+                      "sha256":  "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077"
+                  },
+                  {
+                      "prefix":  "5ca2d353",
+                      "path":  "mods/5ca2d353_【机械动力：赛博护目镜】CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar",
+                      "sha256":  "8c76e91994ca0fa7e51939bf9b031dae3dd8793ddc6d2c0e7578a0873ddf137c"
+                  },
+                  {
+                      "prefix":  "5e6be532",
+                      "path":  "mods/5e6be532_【锦致装饰】supplementaries-neoforge-1.21.1-3.6.5.jar",
+                      "sha256":  "c85968518ff822eb313b5ec8292f7f54d0cc9b4fe046ae5e7a3e4a40f6c8e76b"
+                  },
+                  {
+                      "prefix":  "5fbb56dc",
+                      "path":  "mods/5fbb56dc_sablephysicscompat-1.3.0.jar",
+                      "sha256":  "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
+                  },
+                  {
+                      "prefix":  "613bbc09",
+                      "path":  "mods/613bbc09_tacz_aero_compat-1.7.0.jar",
+                      "sha256":  "c363a707cef584fec13603e17ebf4517fe5b37c50755f2c5f1a1eb44f2d344cd"
+                  },
+                  {
+                      "prefix":  "61e646cf",
+                      "path":  "mods/61e646cf_resourcefullib-neoforge-1.21-3.0.12.jar",
+                      "sha256":  "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+                  },
+                  {
+                      "prefix":  "63d083b5",
+                      "path":  "mods/63d083b5_【风洞】windtunnel-1.1.8.jar",
+                      "sha256":  "ab48fa3741870f2917906285798f52b0f58b0f86849d920d1209ed5891d480c5"
+                  },
+                  {
+                      "prefix":  "68fca74b",
+                      "path":  "mods/68fca74b_[现代化 UI] ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+                      "sha256":  "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0"
+                  },
+                  {
+                      "prefix":  "6a7e9179",
+                      "path":  "mods/6a7e9179_【机械动力：高级遥控器】create_tweaked_controllers-1.21.1-1.2.7.jar",
+                      "sha256":  "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
+                  },
+                  {
+                      "prefix":  "6cdf6035",
+                      "path":  "mods/6cdf6035_【太阳帆】aeronautics blocks-1.0.0-neoforge-1.21.1.jar",
+                      "sha256":  "cc62ff787dbc131a97710f181b8a61f23baa2603676cf6ebb2c6b034b915bece"
+                  },
+                  {
+                      "prefix":  "6cf1af79",
+                      "path":  "mods/6cf1af79_JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+                      "sha256":  "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64"
+                  },
+                  {
+                      "prefix":  "6dc03471",
+                      "path":  "mods/6dc03471_【线控】drivebywire-0.2.9.jar",
+                      "sha256":  "5f8eaa10a6d61aa7330ed997c4f812509c55f02f7213afbebde77c4af17c23c3"
+                  },
+                  {
+                      "prefix":  "6eb3e699",
+                      "path":  "mods/6eb3e699_tracks-neoforge-1.21.1-1.0.1.jar",
+                      "sha256":  "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"
+                  },
+                  {
+                      "prefix":  "72f25935",
+                      "path":  "mods/72f25935_cloth-config-15.0.140-neoforge.jar",
+                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+                  },
+                  {
+                      "prefix":  "75e4c90b",
+                      "path":  "mods/75e4c90b_【电线跨结构】sable_createaddition_compat-0.1.13.jar",
+                      "sha256":  "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c"
+                  },
+                  {
+                      "prefix":  "76ea0beb",
+                      "path":  "mods/76ea0beb_[机械动力] create-1.21.1-6.0.10.jar",
+                      "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+                  },
+                  {
+                      "prefix":  "788cc8b5",
+                      "path":  "mods/788cc8b5_【框架方块】FramedBlocks-10.6.0.jar-框架方块.jar",
+                      "sha256":  "d46c7fe14be51580a2e9761b18daaf81ef774f4aff05f7e88ed50ad6845eba02"
+                  },
+                  {
+                      "prefix":  "78dd23a5",
+                      "path":  "mods/78dd23a5_【碰撞粒子效果】sabledramaticimpact-1.0.0.jar",
+                      "sha256":  "bc12e107dc05cefc4795781836194a3c5cef3c9cc2bcb278cc3a35331f0ca1b2"
+                  },
+                  {
+                      "prefix":  "7a44d36e",
+                      "path":  "mods/7a44d36e_前置cc_sable-neoforge-1.3.4.jar",
+                      "sha256":  "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb"
+                  },
+                  {
+                      "prefix":  "7ac8b89b",
+                      "path":  "mods/7ac8b89b_【装甲】rha-1.0.3-1.21.1.jar",
+                      "sha256":  "4e5d1c4ff49f112f8b335651ec7910991ff8658be7bfef9106effd54ebf83a21"
+                  },
+                  {
+                      "prefix":  "7bb9d94c",
+                      "path":  "mods/7bb9d94c_polylib-2100.1.0-build.183-neoforge.jar",
+                      "sha256":  "6861974b2300c899627374470b81cf4922378cd042363c383c36d758fb3808cb"
+                  },
+                  {
+                      "prefix":  "7d1eed0b",
+                      "path":  "mods/7d1eed0b_【防sable炸区块】sable-chunk-guard-1.0.0.jar",
+                      "sha256":  "98f2f78f603a15d1a65c1a51bc5aeed4310f60b31e3be205136fb493dd3f00b4"
+                  },
+                  {
+                      "prefix":  "7d664791",
+                      "path":  "mods/7d664791_【传送器】beam_me_up-0.1.0.jar",
+                      "sha256":  "3393857b69e5ccd71064a2d17c45d288f63e0167437cbd26653040b147be7c17"
+                  },
+                  {
+                      "prefix":  "7e4b463e",
+                      "path":  "mods/7e4b463e_lithostitched-1.7.9-neoforge-21.1.jar",
+                      "sha256":  "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
+                  },
+                  {
+                      "prefix":  "7f287536",
+                      "path":  "mods/7f287536_【机械动力：柴油动力】createdieselgenerators-1.21.1-1.3.12.jar",
+                      "sha256":  "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
+                  },
+                  {
+                      "prefix":  "7f7880d1",
+                      "path":  "mods/7f7880d1_【小地图显示物理】sable_xaero_bridge-0.1.11.jar",
+                      "sha256":  "6e742003c27d94d49c6326ff2018655ca87585936ee32e9042d0badc1cdc9bf4"
+                  },
+                  {
+                      "prefix":  "8007d285",
+                      "path":  "mods/8007d285_【降卡顿】abbm-禁止转载-Do-Not-Redistribute-1.0.0.jar",
+                      "sha256":  "2f441bf1023fe48e3a5b7447f255b1b344321c61b9c41f34c572469974763ad9"
+                  },
+                  {
+                      "prefix":  "806c0fc6",
+                      "path":  "mods/806c0fc6_【控制学】synaxis-1.2.1.jar",
+                      "sha256":  "3cc00f2aa6d59a230467198b33b68db9b0b6ada4855998231485299bfceafa9c"
+                  },
+                  {
+                      "prefix":  "82675d7d",
+                      "path":  "mods/82675d7d_【tweakroo前置】mafglib-0.4.3+mc1.21.1.jar",
+                      "sha256":  "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+                  },
+                  {
+                      "prefix":  "82850cf4",
+                      "path":  "mods/82850cf4_【机械动力：创想附加】createaddition-1.5.11.jar",
+                      "sha256":  "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
+                  },
+                  {
+                      "prefix":  "83420f88",
+                      "path":  "mods/83420f88_【机械动力：内饰】interiors-1.21.1-neoforge-0.6.1.jar",
+                      "sha256":  "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+                  },
+                  {
+                      "prefix":  "845fadd4",
+                      "path":  "mods/845fadd4_[现代化修复] modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
+                  },
+                  {
+                      "prefix":  "8461d9a8",
+                      "path":  "mods/8461d9a8_【军武】mianbao\u0027s modernwarfare-1.2.0-neoforge-1.21.1.jar",
+                      "sha256":  "35b9f357528fb78bbd306c3bf78b0ee25c1b47bd60e227de68329298caa40449"
+                  },
+                  {
+                      "prefix":  "84940266",
+                      "path":  "mods/84940266_【引信】createsensors-1.0.1.jar",
+                      "sha256":  "c6bd26a54fdc1cd0c0aa9f0d36a984396c049c028d828279e2d1d1d97d12fefc"
+                  },
+                  {
+                      "prefix":  "85cab7e6",
+                      "path":  "mods/85cab7e6_【伪装方块重量适配】aerocopycats-1.1.1.jar",
+                      "sha256":  "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
+                  },
+                  {
+                      "prefix":  "8641307c",
+                      "path":  "mods/8641307c_[机械动力：伪装方块+] copycats-3.0.4+mc.1.21.1-neoforge.jar",
+                      "sha256":  "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+                  },
+                  {
+                      "prefix":  "8805fcf8",
+                      "path":  "mods/8805fcf8_【紧凑传动】create_compact_transmission-1.0.6.jar",
+                      "sha256":  "ff473c30977840b6073d59d4712d0e0e9d1b98900f09d177c96c71e350a4304c"
+                  },
+                  {
+                      "prefix":  "8903940d",
+                      "path":  "mods/8903940d_【逻辑门】create_circuits-1.0.0.jar",
+                      "sha256":  "b32ba0db23c17d6416010f9e477ea0f6a6c79f8ec066d8fb1acb51e32f64ada4"
+                  },
+                  {
+                      "prefix":  "8f749da2",
+                      "path":  "mods/8f749da2_【坐标导航】aeronautscompass-1.1.0.jar",
+                      "sha256":  "41a07b62d22eac822c291289cd5b27a6d761d958e037ee1ad7d4b13da9a23b7e"
+                  },
+                  {
+                      "prefix":  "8fca1427",
+                      "path":  "mods/8fca1427_【灯】Design-n-Decor-1.21.1-2.2b.jar",
+                      "sha256":  "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+                  },
+                  {
+                      "prefix":  "8ff72eb9",
+                      "path":  "mods/8ff72eb9_【航空学元件，修改】aero_reformation-1.1.4.jar",
+                      "sha256":  "71f308e24d02b4ddff81f8a8bf2bb51a42fbb4762478c2b0c7021a951dfdc3b6"
+                  },
+                  {
+                      "prefix":  "91b782c5",
+                      "path":  "mods/91b782c5_【森罗物语：酒馆】kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+                      "sha256":  "938c8825ec42613cf148b11e672008b96ec10f3f7c9335ef54627edce944b5f3"
+                  },
+                  {
+                      "prefix":  "925fe187",
+                      "path":  "mods/925fe187_【摄像机前置】CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+                      "sha256":  "ba59a5a0afaba5d7d70c4b5844df2952696af1d5040c800916bd3479a73487c0"
+                  },
+                  {
+                      "prefix":  "926bbdc4",
+                      "path":  "mods/926bbdc4_【航空学元件】hotstuff-1.1.4.jar",
+                      "sha256":  "df4393c96368ca9b50a9bf0142f40a4e81ae77454edb5c8900b83247539f0892"
+                  },
+                  {
+                      "prefix":  "93ea9a0b",
+                      "path":  "mods/93ea9a0b_【黏轮】stickywheels-1.21.1-0.0.2.jar",
+                      "sha256":  "81409c36b6c340e7342cfb2ff65a18e9dbdb49e61be93c7c7650e1dc6f6fc29f"
+                  },
+                  {
+                      "prefix":  "96a952ba",
+                      "path":  "mods/96a952ba_createbetterfps-1.21.1-1.1.4.jar",
+                      "sha256":  "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+                  },
+                  {
+                      "prefix":  "96e91fae",
+                      "path":  "mods/96e91fae_【军武】advanced-armor-neoforge-1.9.4.jar",
+                      "sha256":  "cf39395465d3b8d25416da938a2f42f668bbdd55e5fd4b76282e741aa53e3a13"
+                  },
+                  {
+                      "prefix":  "98f11b7a",
+                      "path":  "mods/98f11b7a_[火花] spark-1.10.124-neoforge.jar",
+                      "sha256":  "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+                  },
+                  {
+                      "prefix":  "9c7c3e80",
+                      "path":  "mods/9c7c3e80_【彩灯】fairylights-neoforge-1.21.1-1.2.5.jar",
+                      "sha256":  "50516791b25aff735a56981463a251d06d2c5f0953db4bd7d2610d44b5ca9d56"
+                  },
+                  {
+                      "prefix":  "9d67506f",
+                      "path":  "mods/9d67506f_【创世神】worldedit-mod-7.3.8.jar",
+                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+                  },
+                  {
+                      "prefix":  "9f1b19e6",
+                      "path":  "mods/9f1b19e6_【线控打字机】drivebywire-typewriter-1.0.2.jar",
+                      "sha256":  "ee1069d6ff0cd3258471db5c6611aa4afc40fd7c780300a2e1ad408192444256"
+                  },
+                  {
+                      "prefix":  "a4c570d6",
+                      "path":  "mods/a4c570d6_【哨戒动力臂】sentrymechanicalarm-neoforge-1.21.1-1.2.0.jar",
+                      "sha256":  "44713477390baa425ec140dc25578d978d0b35989a70a4c6618ec03adfaeea50"
+                  },
+                  {
+                      "prefix":  "a57d6a87",
+                      "path":  "mods/a57d6a87_【农夫乐事】FarmersDelight-1.21.1-1.3.2.jar",
+                      "sha256":  "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+                  },
+                  {
+                      "prefix":  "a5b090c4",
+                      "path":  "mods/a5b090c4_【推进器，杂项】createthrusters-bundled-0.1.10.jar",
+                      "sha256":  "c1d528230dbc9f3034fd191c479c1b624b350d57275c978cb0f1f28bb18bfbc6"
+                  },
+                  {
+                      "prefix":  "b0549255",
+                      "path":  "mods/b0549255_【音频播放】createmoderntech-1.0.2.jar",
+                      "sha256":  "783988804ff8ef709bc38c1a6f87e7b8494001e82d218eff6644bee3402efeb5"
+                  },
+                  {
+                      "prefix":  "b08136ee",
+                      "path":  "mods/b08136ee_[方块建模] yuushya_modelling-1.21.1-2.4.1 (1).jar",
+                      "sha256":  "eede4bd24a1b20aeb007c03761903aed8061b9b826dc68349a8ca146c9944ae5"
+                  },
+                  {
+                      "prefix":  "b1b8e531",
+                      "path":  "mods/b1b8e531_【机械动力：雷达】create_radar-0.4.9.2-1.21.1.jar",
+                      "sha256":  "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe"
+                  },
+                  {
+                      "prefix":  "b2e1ac0d",
+                      "path":  "mods/b2e1ac0d_createdeco-2.1.3.jar",
+                      "sha256":  "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+                  },
+                  {
+                      "prefix":  "b9d03347",
+                      "path":  "mods/b9d03347_yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                      "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+                  },
+                  {
+                      "prefix":  "bf17e568",
+                      "path":  "mods/bf17e568_[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar",
+                      "sha256":  "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+                  },
+                  {
+                      "prefix":  "c5996db2",
+                      "path":  "mods/c5996db2_sablejade-1.1.0.jar",
+                      "sha256":  "4dd8f4c4da084a4287c6ef067ae1b017186bd176aad90b0d433d89c759fb1369"
+                  },
+                  {
+                      "prefix":  "c71a12be",
+                      "path":  "mods/c71a12be_[方块小镇] yuushya-1.21.0-neoforge-2.3.0 (1).jar",
+                      "sha256":  "c410c51e1ecdd9d3ff55eb34b84d71da761a8990ec0993a766c9ba40e8c360e8"
+                  },
+                  {
+                      "prefix":  "c7510313",
+                      "path":  "mods/c7510313_【动力臂修复】aero_addition-1.0.2.jar",
+                      "sha256":  "2d8a0280c55d12f81a0469b831e3487e557a9cc66cc05c81b1b24cef9b4a2e34"
+                  },
+                  {
+                      "prefix":  "c85bc020",
+                      "path":  "mods/c85bc020_[模组目录] catalogue-neoforge-1.21.1-1.11.2.jar",
+                      "sha256":  "b3c958772c61354fccf04b52264f2e398c8bf9a28d192d675bf82359b647ef43"
+                  },
+                  {
+                      "prefix":  "c8be1278",
+                      "path":  "mods/c8be1278_voxy-0.2.14-1-aero-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead.jar",
+                      "sha256":  "39ddf0d75d88437a9d1c9a91044c91edf69b89f287b60daea70cebc7b6b7b76f"
+                  },
+                  {
+                      "prefix":  "c932bdf4",
+                      "path":  "mods/c932bdf4_【雷达导弹】iguidance-1.1.jar",
+                      "sha256":  "595bebd893b425b278e9f29bd76b00447ef1ccee279b3aa92c1cf9eae6fc9631"
+                  },
+                  {
+                      "prefix":  "ca2219ac",
+                      "path":  "mods/ca2219ac_[机械动力：流光溢彩] createprism-1.2.2.jar",
+                      "sha256":  "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa"
+                  },
+                  {
+                      "prefix":  "cd9744c8",
+                      "path":  "mods/cd9744c8_【火炮后坐力】cbc_equally_opposite-0.1.3.jar",
+                      "sha256":  "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159"
+                  },
+                  {
+                      "prefix":  "cdc8f864",
+                      "path":  "mods/cdc8f864_iris-neoforge-1.8.12+mc1.21.1.jar",
+                      "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+                  },
+                  {
+                      "prefix":  "cfc7d4e1",
+                      "path":  "mods/cfc7d4e1_【打字机放进饰品栏】CreateAeronauticsCuriosLinkedTypewriter-1.21.1-1.0.1.jar",
+                      "sha256":  "d827f52694ea7c2bfeba5e6fa55b19232dd61111cfa4206468dfcfeb1aa7b846"
+                  },
+                  {
+                      "prefix":  "d19c703f",
+                      "path":  "mods/d19c703f_[C^2M 引擎] c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+                      "sha256":  "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322"
+                  },
+                  {
+                      "prefix":  "d4369cb6",
+                      "path":  "mods/d4369cb6_【装饰】chipped-neoforge-1.21.1-4.0.2.jar",
+                      "sha256":  "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+                  },
+                  {
+                      "prefix":  "d87b49d7",
+                      "path":  "mods/d87b49d7_iris-flywheel-compat-NeoForge-2.4.0.jar",
+                      "sha256":  "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
+                  },
+                  {
+                      "prefix":  "d8f032a5",
+                      "path":  "mods/d8f032a5_curios-neoforge-9.5.1+1.21.1.jar",
+                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+                  },
+                  {
+                      "prefix":  "db365b54",
+                      "path":  "mods/db365b54_irisveil-0.1.0.jar",
+                      "sha256":  "e1b5540daff9837b62e95d33504e16ef4fc4f9e3fc5c55bc13984b1a46713f95"
+                  },
+                  {
+                      "prefix":  "dcac6d58",
+                      "path":  "mods/dcac6d58_【鈇】flerovium-neoforge-1.21.1-1.0.18-all.jar",
+                      "sha256":  "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb"
+                  },
+                  {
+                      "prefix":  "dd004f7a",
+                      "path":  "mods/dd004f7a_【钠】sodium-neoforge-0.6.13+mc1.21.1.jar",
+                      "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+                  },
+                  {
+                      "prefix":  "df4e409f",
+                      "path":  "mods/df4e409f_【网络音乐机：登登你的】net_music_login_need-1.21.1-0.4.jar",
+                      "sha256":  "b8ca1ed4cf2f389a011767e340f607e9caa224ef692725aa33e391e6fe0b8085"
+                  },
+                  {
+                      "prefix":  "e2b47db4",
+                      "path":  "mods/e2b47db4_tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar",
+                      "sha256":  "d3c021423b6506fd23cec0a947e5c562cf233b4f099356d405940087cda7aa45"
+                  },
+                  {
+                      "prefix":  "e2e6a345",
+                      "path":  "mods/e2e6a345_【锦致前置】moonlight-neoforge-1.21.1-3.0.16.jar",
+                      "sha256":  "6677fa40f61b507bf6b22c882a169049ba7de7d5546d3374903cf0a43d761fed"
+                  },
+                  {
+                      "prefix":  "e30b0d86",
+                      "path":  "mods/e30b0d86_[JEI物品管理器] jei-1.21.1-neoforge-19.27.0.340.jar",
+                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+                  },
+                  {
+                      "prefix":  "e591663b",
+                      "path":  "mods/e591663b_createbigcannons-5.11.3-mc.1.21.1.jar-机械动力：火炮.jar",
+                      "sha256":  "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
+                  },
+                  {
+                      "prefix":  "e6aebd03",
+                      "path":  "mods/e6aebd03_WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
+                      "sha256":  "f676811a713a7959d835cbfaba8e3ef761ab4cabbc61d240bd59ae2461d9c5cb"
+                  },
+                  {
+                      "prefix":  "e6ce1d8f",
+                      "path":  "mods/e6ce1d8f_create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                      "sha256":  "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+                  },
+                  {
+                      "prefix":  "eb9642ad",
+                      "path":  "mods/eb9642ad_[CMD 指令摄影机] CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar",
+                      "sha256":  "9d7fe7ea92cd9f48f9ba913e9a3afd6db85c22774c903bd9ce29088d838d7aa8"
+                  },
+                  {
+                      "prefix":  "ede1a627",
+                      "path":  "mods/ede1a627_[高级备份] AdvancedBackups-neoforge-1.21-3.7.1.jar",
+                      "sha256":  "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
+                  },
+                  {
+                      "prefix":  "f1487802",
+                      "path":  "mods/f1487802_bits_n_bobs-0.0.44.jar",
+                      "sha256":  "6d8268d82cc6e38dd13f5247b28f37b7a35d66cb476c6e0632f4e9ba5570f5d8"
+                  },
+                  {
+                      "prefix":  "f68eda0e",
+                      "path":  "mods/f68eda0e_【工具枪】create_aeronautics_toolgun-0.2.0.jar",
+                      "sha256":  "506a0db3f4f17f55ae32e09254ee7b201be784fca686cb749286b21ad024c995"
+                  },
+                  {
+                      "prefix":  "f7493ab5",
+                      "path":  "mods/f7493ab5_【万用皮肤补丁】CustomSkinLoader_Universal-14.28.jar",
+                      "sha256":  "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894"
+                  },
+                  {
+                      "prefix":  "f9f32150",
+                      "path":  "mods/f9f32150_Jade-VS-neoforge-1.21.1-2.0.0.jar",
+                      "sha256":  "24bb0565c63e8647b2a458786b4c6e6831ea1a98c6cb2e6a6e668b2f0f770742"
+                  },
+                  {
+                      "prefix":  "fa53b47b",
+                      "path":  "mods/fa53b47b_【玩家动作】player-animation-lib-forge-2.0.4+1.21.1.jar",
+                      "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+                  },
+                  {
+                      "prefix":  "fc1031db",
+                      "path":  "mods/fc1031db_前置cc-tweaked-1.21.1-forge-1.119.0.jar",
+                      "sha256":  "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b"
+                  },
+                  {
+                      "prefix":  "fc77badf",
+                      "path":  "mods/fc77badf_【飞控】create_flight_control-neoforge-0.3.0.jar",
+                      "sha256":  "4f9f046bff9e9588aa0855ae657d5d1aeeaa84d02ab1e5fa01a6dcfef5fbc6ec"
+                  },
+                  {
+                      "prefix":  "fc879241",
+                      "path":  "mods/fc879241_【太空战】space_war_aeronautics-0.1.4.jar",
+                      "sha256":  "21df4ab100078c035aab909bc022482e7ed9b31c8907c7a69845091a95f48083"
+                  },
+                  {
+                      "prefix":  "fcdb77a8",
+                      "path":  "mods/fcdb77a8_sable-neoforge-1.21.1-1.2.2.jar",
+                      "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+                  }
+              ],
+    "remove":  [
+
+               ],
+    "version":  "1.0.1"
+}

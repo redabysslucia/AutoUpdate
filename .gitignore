@@ -1,0 +1,32 @@
+# ============================================
+#  模组包自动更新系统 - Git 忽略规则
+# ============================================
+
+# --- PCL 启动器 (大型二进制，需自行下载) ---
+client/PCL.exe
+
+# --- Minecraft 运行时文件 (体积巨大) ---
+client/.minecraft/assets/
+client/.minecraft/libraries/
+client/.minecraft/versions/
+
+# --- 用户隐私数据 ---
+client/.minecraft/launcher_profiles.json
+client/.minecraft/PCL.ini
+
+# --- 本地版本缓存 (自动生成) ---
+client/.minecraft/modpack_version.json
+
+# --- PCL 日志 ---
+client/PCL/Log*.txt
+client/PCL/LatestLaunch.bat
+
+# --- IDE 配置 ---
+.idea/
+
+# --- 临时文件 ---
+*.tmp
+*.bak
+_reorg.ps1
+_fix_*.ps1
+_gen_manifest.ps1
