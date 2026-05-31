@@ -1,0 +1,740 @@
+{
+    "mappings":  {
+                     "82850cf4":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/kU1G12Nn/versions/3ptU8Nq9/createaddition-1.5.11.jar",
+                                      "fileName":  "createaddition-1.5.11.jar",
+                                      "projectName":  "Create Crafts \u0026 Additions",
+                                      "projectId":  "kU1G12Nn",
+                                      "sha256":  "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
+                                  },
+                     "9d67506f":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+                                      "fileName":  "worldedit-mod-7.3.8.jar",
+                                      "projectName":  "WorldEdit",
+                                      "projectId":  "1u6JkXh5",
+                                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+                                  },
+                     "590b6cb9":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/Y1dq5ioE/versions/4m4AqUqT/create_aeronautics_transmission_linkage-0.2.3.jar",
+                                      "fileName":  "create_aeronautics_transmission_linkage-0.2.3.jar",
+                                      "projectName":  "Create Aeronautics: Transmission \u0026 Linkage",
+                                      "projectId":  "Y1dq5ioE",
+                                      "sha256":  "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92"
+                                  },
+                     "6eb3e699":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/xX4m1GME/versions/JIha8XmV/movabletracks-1.0.1.jar",
+                                      "fileName":  "movabletracks-1.0.1.jar",
+                                      "projectName":  "Create: Movable Tracks",
+                                      "projectId":  "xX4m1GME",
+                                      "sha256":  "fe0976463d5f4e45a8e6f49a064cda1f72ab4a814ecb805603e421e05b458284"
+                                  },
+                     "1ef46df5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/L3Jv0QZI/versions/oQKsMKfj/railways-0.2.0%2Bneoforge-mc1.21.1.jar",
+                                      "fileName":  "railways-0.2.0+neoforge-mc1.21.1.jar",
+                                      "projectName":  "Steam \u0027n\u0027 Rails Neoforge",
+                                      "projectId":  "L3Jv0QZI",
+                                      "sha256":  "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+                                  },
+                     "925fe187":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/OsZiaDHq/versions/SCrlV5vO/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+                                      "fileName":  "CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+                                      "projectName":  "CreativeCore",
+                                      "projectId":  "OsZiaDHq",
+                                      "sha256":  "ba59a5a0afaba5d7d70c4b5844df2952696af1d5040c800916bd3479a73487c0"
+                                  },
+                     "db365b54":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/owQyCHo4/versions/x3vxqNpo/irisveil-0.1.0.jar",
+                                      "fileName":  "irisveil-0.1.0.jar",
+                                      "projectName":  "Iris Veil Compat",
+                                      "projectId":  "owQyCHo4",
+                                      "sha256":  "e1b5540daff9837b62e95d33504e16ef4fc4f9e3fc5c55bc13984b1a46713f95"
+                                  },
+                     "28ce6073":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+                                      "fileName":  "architectury-13.0.8-neoforge.jar",
+                                      "projectName":  "Architectury API",
+                                      "projectId":  "lhGA9TYQ",
+                                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+                                  },
+                     "a5b090c4":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/Sza3GgEL/versions/J3z85r47/createthrusters-bundled-0.1.10.jar",
+                                      "fileName":  "createthrusters-bundled-0.1.10.jar",
+                                      "projectName":  "Create Aeronautics: Thrusters and Things",
+                                      "projectId":  "Sza3GgEL",
+                                      "sha256":  "c1d528230dbc9f3034fd191c479c1b624b350d57275c978cb0f1f28bb18bfbc6"
+                                  },
+                     "4d4bb3ab":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar",
+                                      "fileName":  "tweakerge-0.4.3+mc1.21.1.jar",
+                                      "projectName":  "Tweakerge",
+                                      "projectId":  "yke6wdGF",
+                                      "sha256":  "c19f6e2200dd21b32b90119098a0608692605c4ced91146e67ea61e0e9855277"
+                                  },
+                     "dfd25399":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                                      "fileName":  "xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                                      "projectName":  "Xaero\u0027s Minimap",
+                                      "projectId":  "1bokaNcj",
+                                      "sha256":  "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+                                  },
+                     "f68eda0e":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/5fUBLqeW/versions/f3dJL2d2/create_aeronautics_toolgun-0.2.0.jar",
+                                      "fileName":  "create_aeronautics_toolgun-0.2.0.jar",
+                                      "projectName":  "Create Aeronautics: Toolgun",
+                                      "projectId":  "5fUBLqeW",
+                                      "sha256":  "506a0db3f4f17f55ae32e09254ee7b201be784fca686cb749286b21ad024c995"
+                                  },
+                     "52e78cd6":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/NYBH9vVY/versions/3mf1vH18/sim_copycats-1.1.6.jar",
+                                      "fileName":  "sim_copycats-1.1.6.jar",
+                                      "projectName":  "Aeronautics: simulated copycats",
+                                      "projectId":  "NYBH9vVY",
+                                      "sha256":  "2e37fb6157cc70248abe3fc3aed6404e6847d1fee18bae2328fff1d90250e8d6"
+                                  },
+                     "ca2219ac":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/udEtt0b2/versions/gKqw2akx/createprism-1.2.2.jar",
+                                      "fileName":  "createprism-1.2.2.jar",
+                                      "projectName":  "Create: Prismatic Shine",
+                                      "projectId":  "udEtt0b2",
+                                      "sha256":  "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa"
+                                  },
+                     "fcdb77a8":  {
+                                      "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+                                      "projectName":  "Sable",
+                                      "source":  "modrinth",
+                                      "projectId":  "T9PomCSv",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
+                                      "fileName":  "sable-neoforge-1.21.1-1.2.2.jar"
+                                  },
+                     "9c7c3e80":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/wKhMANDF/versions/jjPFmew9/fairylights-neoforge-1.21.1-1.2.5.jar",
+                                      "fileName":  "fairylights-neoforge-1.21.1-1.2.5.jar",
+                                      "projectName":  "Fairy Lights",
+                                      "projectId":  "wKhMANDF",
+                                      "sha256":  "50516791b25aff735a56981463a251d06d2c5f0953db4bd7d2610d44b5ca9d56"
+                                  },
+                     "f1487802":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+                                      "fileName":  "bits_n_bobs-0.0.44.jar",
+                                      "projectName":  "Create: Bits \u0027n\u0027 Bobs",
+                                      "projectId":  "T8bvmqVZ",
+                                      "sha256":  "6d8268d82cc6e38dd13f5247b28f37b7a35d66cb476c6e0632f4e9ba5570f5d8"
+                                  },
+                     "579421cc":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/ApkoHNO9/versions/hTnJ29I0/createpropulsion-1.1.4.jar",
+                                      "fileName":  "createpropulsion-1.1.4.jar",
+                                      "projectName":  "Create Propulsion: Simulated",
+                                      "projectId":  "ApkoHNO9",
+                                      "sha256":  "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+                                  },
+                     "8fca1427":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
+                                      "fileName":  "Design-n-Decor-1.21.1-2.2b.jar",
+                                      "projectName":  "Create: Design n\u0027 Decor",
+                                      "projectId":  "x49wilh8",
+                                      "sha256":  "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+                                  },
+                     "84940266":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/H2ZeQ6PO/versions/GZAktxSu/createsensors-1.0.1.jar",
+                                      "fileName":  "createsensors-1.0.1.jar",
+                                      "projectName":  "Create: Sensors",
+                                      "projectId":  "H2ZeQ6PO",
+                                      "sha256":  "c6bd26a54fdc1cd0c0aa9f0d36a984396c049c028d828279e2d1d1d97d12fefc"
+                                  },
+                     "cdc8f864":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+                                      "fileName":  "iris-neoforge-1.8.12+mc1.21.1.jar",
+                                      "projectName":  "Iris Shaders",
+                                      "projectId":  "YL57xq9U",
+                                      "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+                                  },
+                     "926bbdc4":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/UFCtLrRv/versions/bPamUYgs/hotstuff-1.1.4.jar",
+                                      "fileName":  "hotstuff-1.1.4.jar",
+                                      "projectName":  "Hot\u0027s Aerostuff",
+                                      "projectId":  "UFCtLrRv",
+                                      "sha256":  "df4393c96368ca9b50a9bf0142f40a4e81ae77454edb5c8900b83247539f0892"
+                                  },
+                     "c5996db2":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/jCrJ4iGH/versions/Cayoq42b/sablejade-1.1.0.jar",
+                                      "fileName":  "sablejade-1.1.0.jar",
+                                      "projectName":  "Jade Sable Compat",
+                                      "projectId":  "jCrJ4iGH",
+                                      "sha256":  "4dd8f4c4da084a4287c6ef067ae1b017186bd176aad90b0d433d89c759fb1369"
+                                  },
+                     "2e212c7b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/wtW8g4TG/versions/eI9pk5JC/createendertransmission-2.1.1-1.21.1.jar",
+                                      "fileName":  "createendertransmission-2.1.1-1.21.1.jar",
+                                      "projectName":  "Create: Ender Transmission",
+                                      "projectId":  "wtW8g4TG",
+                                      "sha256":  "13f237796ba51312a385ebd55b252c55598d49bcf677ea68f0bfb9bd88c23b63"
+                                  },
+                     "fc879241":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/fzGgb6N0/versions/NTXVdUI1/space_war_aeronautics-0.1.4.jar",
+                                      "fileName":  "space_war_aeronautics-0.1.4.jar",
+                                      "projectName":  "Space War - Aeronautics",
+                                      "projectId":  "fzGgb6N0",
+                                      "sha256":  "21df4ab100078c035aab909bc022482e7ed9b31c8907c7a69845091a95f48083"
+                                  },
+                     "96a952ba":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
+                                      "fileName":  "createbetterfps-1.21.1-1.1.4.jar",
+                                      "projectName":  "CreateBetterFps",
+                                      "projectId":  "lMYIHZNH",
+                                      "sha256":  "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+                                  },
+                     "20856ab3":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+                                      "fileName":  "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+                                      "projectName":  "Ritchie\u0027s Projectile Library",
+                                      "projectId":  "B3pb093D",
+                                      "sha256":  "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+                                  },
+                     "56bd86dd":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/SqnBX2qd/versions/C1Wg17Qf/lanserverproperties-1.13.2-neoforge.jar",
+                                      "fileName":  "lanserverproperties-1.13.2-neoforge.jar",
+                                      "projectName":  "LAN Server Properties",
+                                      "projectId":  "SqnBX2qd",
+                                      "sha256":  "071d882002d7f5348d7385e9f0ff8592e4a2433de24731c02c07d2cd41eededd"
+                                  },
+                     "63d083b5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/EnEqwk7y/versions/IdHA8JDW/windtunnel-1.1.8.jar",
+                                      "fileName":  "windtunnel-1.1.8.jar",
+                                      "projectName":  "Aeronautics:Wind Tunnel",
+                                      "projectId":  "EnEqwk7y",
+                                      "sha256":  "ab48fa3741870f2917906285798f52b0f58b0f86849d920d1209ed5891d480c5"
+                                  },
+                     "d8f032a5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+                                      "fileName":  "curios-neoforge-9.5.1+1.21.1.jar",
+                                      "projectName":  "Curios API",
+                                      "projectId":  "vvuO3ImH",
+                                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+                                  },
+                     "7f287536":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/ZM3tt6p1/versions/3PddTDD8/createdieselgenerators-1.21.1-1.3.12.jar",
+                                      "fileName":  "createdieselgenerators-1.21.1-1.3.12.jar",
+                                      "projectName":  "Create: Diesel Generators",
+                                      "projectId":  "ZM3tt6p1",
+                                      "sha256":  "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
+                                  },
+                     "7d1eed0b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/1Fxnt8na/versions/aftA84Bf/sable-chunk-guard-1.0.0.jar",
+                                      "fileName":  "sable-chunk-guard-1.0.0.jar",
+                                      "projectName":  "Sable Chunk Guard",
+                                      "projectId":  "1Fxnt8na",
+                                      "sha256":  "98f2f78f603a15d1a65c1a51bc5aeed4310f60b31e3be205136fb493dd3f00b4"
+                                  },
+                     "5c9db47e":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/QQXAdCzh/versions/Zrh2Fmn9/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+                                      "fileName":  "Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+                                      "projectName":  "Ping Wheel",
+                                      "projectId":  "QQXAdCzh",
+                                      "sha256":  "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077"
+                                  },
+                     "82675d7d":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar",
+                                      "fileName":  "mafglib-0.4.3+mc1.21.1.jar",
+                                      "projectName":  "MaFgLib",
+                                      "projectId":  "SKI34J7B",
+                                      "sha256":  "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+                                  },
+                     "b08136ee":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/RxVV6ldg/versions/BEzfp616/yuushya_modelling-1.21.1-2.4.1.jar",
+                                      "fileName":  "yuushya_modelling-1.21.1-2.4.1.jar",
+                                      "projectName":  "Yuushya Modelling",
+                                      "projectId":  "RxVV6ldg",
+                                      "sha256":  "eede4bd24a1b20aeb007c03761903aed8061b9b826dc68349a8ca146c9944ae5"
+                                  },
+                     "d87b49d7":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar",
+                                      "fileName":  "iris-flywheel-compat-NeoForge-2.4.0.jar",
+                                      "projectName":  "Iris \u0026 Oculus Flywheel Compat",
+                                      "projectId":  "ndHYMY2K",
+                                      "sha256":  "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
+                                  },
+                     "e6ce1d8f":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                                      "fileName":  "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                                      "projectName":  "Create Aeronautics",
+                                      "projectId":  "oWaK0Q19",
+                                      "sha256":  "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+                                  },
+                     "df4e409f":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/hoXcy0f7/versions/46STwUIx/net_music_login_need-1.21.1-0.4.jar",
+                                      "fileName":  "net_music_login_need-1.21.1-0.4.jar",
+                                      "projectName":  "NetMusic: LoginNeed",
+                                      "projectId":  "hoXcy0f7",
+                                      "sha256":  "b8ca1ed4cf2f389a011767e340f607e9caa224ef692725aa33e391e6fe0b8085"
+                                  },
+                     "5e6be532":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/fFEIiSDQ/versions/iZW24EZo/supplementaries-neoforge-1.21.1-3.6.6.jar",
+                                      "fileName":  "supplementaries-neoforge-1.21.1-3.6.6.jar",
+                                      "projectName":  "Supplementaries",
+                                      "projectId":  "fFEIiSDQ",
+                                      "sha256":  "2da254e27f1764005413f8361d39b106fc217bb2dd50ad972afc274f047e8a2d"
+                                  },
+                     "32b8961c":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar",
+                                      "fileName":  "Chunky-NeoForge-1.4.23.jar",
+                                      "projectName":  "Chunky",
+                                      "projectId":  "fALzjamp",
+                                      "sha256":  "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+                                  },
+                     "8641307c":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+                                      "fileName":  "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+                                      "projectName":  "Create: Copycats+",
+                                      "projectId":  "UT2M39wf",
+                                      "sha256":  "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+                                  },
+                     "588360c1":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar",
+                                      "fileName":  "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                                      "projectName":  "Immersive Melodies",
+                                      "projectId":  "TaSmHw8V",
+                                      "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972"
+                                  },
+                     "98f11b7a":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+                                      "fileName":  "spark-1.10.124-neoforge.jar",
+                                      "projectName":  "spark",
+                                      "projectId":  "l6YH9Als",
+                                      "sha256":  "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+                                  },
+                     "7ac8b89b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/UFXAeoqT/versions/CBZYal5h/rha-1.0.2-1.21.1.jar",
+                                      "fileName":  "rha-1.0.2-1.21.1.jar",
+                                      "projectName":  "Rolled Homongenous: Forked",
+                                      "projectId":  "UFXAeoqT",
+                                      "sha256":  "aeb1c27231ee83927b7466073ff4df58679357d16712c99601613c4551ce41bb"
+                                  },
+                     "57f10a5d":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/R0bDWFAW/versions/tXG1TkGx/touhoulittlemaid-1.5.3-neoforge%2Bmc1.21.1.jar",
+                                      "fileName":  "touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+                                      "projectName":  "Touhou Little Maid",
+                                      "projectId":  "R0bDWFAW",
+                                      "sha256":  "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27"
+                                  },
+                     "4505174c":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar",
+                                      "fileName":  "kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
+                                      "projectName":  "Kaleidoscope Cookery",
+                                      "projectId":  "v17FatAc",
+                                      "sha256":  "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff"
+                                  },
+                     "7a44d36e":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar",
+                                      "fileName":  "cc_sable-neoforge-1.3.4.jar",
+                                      "projectName":  "CC: Sable",
+                                      "projectId":  "OPNBxiZD",
+                                      "sha256":  "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb"
+                                  },
+                     "8903940d":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/jTF6HzES/versions/NnUgF4fK/create_circuits-1.0.0.jar",
+                                      "fileName":  "create_circuits-1.0.0.jar",
+                                      "projectName":  "Create: Circuits",
+                                      "projectId":  "jTF6HzES",
+                                      "sha256":  "b32ba0db23c17d6416010f9e477ea0f6a6c79f8ec066d8fb1acb51e32f64ada4"
+                                  },
+                     "e6aebd03":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/lOELapP1/versions/YrN5j3qw/WorldEditCUI-NeoForge-1.21.1%2B01-SNAPSHOT.jar",
+                                      "fileName":  "WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar",
+                                      "projectName":  "WorldEdit CUI (Unofficial Forge Port)",
+                                      "projectId":  "lOELapP1",
+                                      "sha256":  "44b7acfdb675cbd442c42a37efee67a21979895961a60348cf61c7447de0ff31"
+                                  },
+                     "7e4b463e":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/XaDC71GB/versions/wiffJSbz/lithostitched-1.7.9-neoforge-21.1.jar",
+                                      "fileName":  "lithostitched-1.7.9-neoforge-21.1.jar",
+                                      "projectName":  "Lithostitched",
+                                      "projectId":  "XaDC71GB",
+                                      "sha256":  "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
+                                  },
+                     "72f25935":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+                                      "fileName":  "cloth-config-15.0.140-neoforge.jar",
+                                      "projectName":  "Cloth Config API",
+                                      "projectId":  "9s6osm5g",
+                                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+                                  },
+                     "a57d6a87":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar",
+                                      "fileName":  "FarmersDelight-1.21.1-1.3.2.jar",
+                                      "projectName":  "Farmer\u0027s Delight",
+                                      "projectId":  "R2OftAxM",
+                                      "sha256":  "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+                                  },
+                     "8f749da2":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/aLVC5usA/versions/NH6rRib7/aeronauticscompat-1.1.0.jar",
+                                      "fileName":  "aeronauticscompat-1.1.0.jar",
+                                      "projectName":  "Create Aeronautics: Compatability",
+                                      "projectId":  "aLVC5usA",
+                                      "sha256":  "5ac2f996203ca3abc41b1d01b5ec0cc194e41c0f5f75401ae12cb17561a73106"
+                                  },
+                     "806c0fc6":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/aJewFWOb/versions/KnVJhNRQ/synaxis-1.2.1.jar",
+                                      "fileName":  "synaxis-1.2.1.jar",
+                                      "projectName":  "Synaxis",
+                                      "projectId":  "aJewFWOb",
+                                      "sha256":  "3cc00f2aa6d59a230467198b33b68db9b0b6ada4855998231485299bfceafa9c"
+                                  },
+                     "fa53b47b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+                                      "fileName":  "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                                      "projectName":  "playerAnimator",
+                                      "projectId":  "gedNE4y2",
+                                      "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+                                  },
+                     "91b782c5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/r9RZvhiJ/versions/60r2i5sT/kaleidoscopetavern-1.1.2-neoforge%2Bmc1.21.1.jar",
+                                      "fileName":  "kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+                                      "projectName":  "Kaleidoscope Tavern",
+                                      "projectId":  "r9RZvhiJ",
+                                      "sha256":  "938c8825ec42613cf148b11e672008b96ec10f3f7c9335ef54627edce944b5f3"
+                                  },
+                     "78dd23a5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/82kuUv49/versions/cyLPsvEf/sabledramaticimpact-1.0.0.jar",
+                                      "fileName":  "sabledramaticimpact-1.0.0.jar",
+                                      "projectName":  "Sable: Dramatic Impact",
+                                      "projectId":  "82kuUv49",
+                                      "sha256":  "bc12e107dc05cefc4795781836194a3c5cef3c9cc2bcb278cc3a35331f0ca1b2"
+                                  },
+                     "75e4c90b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/5njdnAZ8/versions/x7OaOLDX/sable_createaddition_compat-0.1.13.jar",
+                                      "fileName":  "sable_createaddition_compat-0.1.13.jar",
+                                      "projectName":  "Create Additions - Sable Compat",
+                                      "projectId":  "5njdnAZ8",
+                                      "sha256":  "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c"
+                                  },
+                     "c71a12be":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/lfVtagkm/versions/L2HpYsbq/yuushya-1.21.0-neoforge-2.3.0.jar",
+                                      "fileName":  "yuushya-1.21.0-neoforge-2.3.0.jar",
+                                      "projectName":  "Yuushya Townscape",
+                                      "projectId":  "lfVtagkm",
+                                      "sha256":  "c410c51e1ecdd9d3ff55eb34b84d71da761a8990ec0993a766c9ba40e8c360e8"
+                                  },
+                     "61e646cf":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
+                                      "fileName":  "resourcefullib-neoforge-1.21-3.0.12.jar",
+                                      "projectName":  "Resourceful Lib",
+                                      "projectId":  "G1hIVOrD",
+                                      "sha256":  "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+                                  },
+                     "f9f32150":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/zNKzjsZM/versions/6EnjDln1/Jade-VS-neoforge-1.21.1-2.0.0.jar",
+                                      "fileName":  "Jade-VS-neoforge-1.21.1-2.0.0.jar",
+                                      "projectName":  "Jade VS",
+                                      "projectId":  "zNKzjsZM",
+                                      "sha256":  "24bb0565c63e8647b2a458786b4c6e6831ea1a98c6cb2e6a6e668b2f0f770742"
+                                  },
+                     "288b938d":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+                                      "fileName":  "geckolib-neoforge-1.21.1-4.8.4.jar",
+                                      "projectName":  "Geckolib",
+                                      "projectId":  "8BmcQJ2H",
+                                      "sha256":  "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+                                  },
+                     "dcac6d58":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/4Rh1Mobu/versions/ROADZx1W/flerovium-neoforge-1.21.1-1.0.18-all.jar",
+                                      "fileName":  "flerovium-neoforge-1.21.1-1.0.18-all.jar",
+                                      "projectName":  "Flerovium",
+                                      "projectId":  "4Rh1Mobu",
+                                      "sha256":  "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb"
+                                  },
+                     "6a7e9179":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/csCe2v7f/create_tweaked_controllers-1.21.1-1.2.7.jar",
+                                      "fileName":  "create_tweaked_controllers-1.21.1-1.2.7.jar",
+                                      "projectName":  "Create: Tweaked Controllers",
+                                      "projectId":  "H6bJ8Ju4",
+                                      "sha256":  "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
+                                  },
+                     "4b0a0dac":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/Vg5TIO6d/versions/tSy3IGxT/create_connected-1.2.0-mc1.21.1.jar",
+                                      "fileName":  "create_connected-1.2.0-mc1.21.1.jar",
+                                      "projectName":  "Create: Connected",
+                                      "projectId":  "Vg5TIO6d",
+                                      "sha256":  "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62"
+                                  },
+                     "23b7f878":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/73ZXeRfx/versions/Lr07X5oA/create_aeronautics_automated_logistics-0.3.0.jar",
+                                      "fileName":  "create_aeronautics_automated_logistics-0.3.0.jar",
+                                      "projectName":  "Create Aeronautics: Automated Logistics",
+                                      "projectId":  "73ZXeRfx",
+                                      "sha256":  "d82198d1d9e3fe2ecb8de65b3da088d8ce3115df1e1442d6c08ad1e10cb9edaf"
+                                  },
+                     "b0549255":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/maiVPGYD/versions/WI83Jl82/createmoderntech-1.0.2.jar",
+                                      "fileName":  "createmoderntech-1.0.2.jar",
+                                      "projectName":  "Create: Modern Tech",
+                                      "projectId":  "maiVPGYD",
+                                      "sha256":  "783988804ff8ef709bc38c1a6f87e7b8494001e82d218eff6644bee3402efeb5"
+                                  },
+                     "e2e6a345":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/twkfQtEc/versions/er7S98Q1/moonlight-neoforge-1.21.1-3.0.14.jar",
+                                      "fileName":  "moonlight-neoforge-1.21.1-3.0.14.jar",
+                                      "projectName":  "Moonlight Lib",
+                                      "projectId":  "twkfQtEc",
+                                      "sha256":  "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd"
+                                  },
+                     "5fbb56dc":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar",
+                                      "fileName":  "sablephysicscompat-1.3.0.jar",
+                                      "projectName":  "Sable: Physics Compat",
+                                      "projectId":  "sZbcIrJb",
+                                      "sha256":  "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
+                                  },
+                     "b2e1ac0d":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+                                      "fileName":  "createdeco-2.1.3.jar",
+                                      "projectName":  "Create Deco",
+                                      "projectId":  "sMvUb4Rb",
+                                      "sha256":  "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+                                  },
+                     "e30b0d86":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
+                                      "fileName":  "jei-1.21.1-neoforge-19.27.0.340.jar",
+                                      "projectName":  "Just Enough Items (JEI)",
+                                      "projectId":  "u6dRKJwZ",
+                                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+                                  },
+                     "473f2111":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/9xiCbKmM/versions/eHt4XwTE/create_aeronautics_throwable_rope_connector-0.3.0.jar",
+                                      "fileName":  "create_aeronautics_throwable_rope_connector-0.3.0.jar",
+                                      "projectName":  "Create Aeronautics: Throwable Rope Connector",
+                                      "projectId":  "9xiCbKmM",
+                                      "sha256":  "65fe991794a95e5b9d2f7bd5c117e2dd8fbb2b9c24b59f9afcd9d6080158e9ff"
+                                  },
+                     "eb9642ad":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/hZw3uqi3/versions/gnOLADrt/CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar",
+                                      "fileName":  "CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar",
+                                      "projectName":  "CMDCam",
+                                      "projectId":  "hZw3uqi3",
+                                      "sha256":  "9d7fe7ea92cd9f48f9ba913e9a3afd6db85c22774c903bd9ce29088d838d7aa8"
+                                  },
+                     "845fadd4":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/nmDcB62a/versions/nWk1yGgV/modernfix-neoforge-5.27.11%2Bmc1.21.1.jar",
+                                      "fileName":  "modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                                      "projectName":  "ModernFix",
+                                      "projectId":  "nmDcB62a",
+                                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
+                                  },
+                     "76ea0beb":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+                                      "fileName":  "create-1.21.1-6.0.10.jar",
+                                      "projectName":  "Create",
+                                      "projectId":  "LNytGWDc",
+                                      "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+                                  },
+                     "d4369cb6":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar",
+                                      "fileName":  "chipped-neoforge-1.21.1-4.0.2.jar",
+                                      "projectName":  "Chipped",
+                                      "projectId":  "BAscRYKm",
+                                      "sha256":  "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+                                  },
+                     "ede1a627":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/Jrmoreqs/versions/ufIaRDFo/AdvancedBackups-neoforge-1.21-3.7.1.jar",
+                                      "fileName":  "AdvancedBackups-neoforge-1.21-3.7.1.jar",
+                                      "projectName":  "Advanced Backups",
+                                      "projectId":  "Jrmoreqs",
+                                      "sha256":  "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
+                                  },
+                     "41a132d0":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/mva5q4qZ/versions/euMtX6NU/create_submarine-2.1.3.jar",
+                                      "fileName":  "create_submarine-2.1.3.jar",
+                                      "projectName":  "Create Deep Seas",
+                                      "projectId":  "mva5q4qZ",
+                                      "sha256":  "734bef3d708b4ccb35f2196193f3af217a10ddcfc78a97493da3245822c56d2b"
+                                  },
+                     "8805fcf8":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/qBkvR8oH/versions/ZshDdrRJ/create_compact_transmission-1.0.6.jar",
+                                      "fileName":  "create_compact_transmission-1.0.6.jar",
+                                      "projectName":  "Create: Compact Transmission",
+                                      "projectId":  "qBkvR8oH",
+                                      "sha256":  "ff473c30977840b6073d59d4712d0e0e9d1b98900f09d177c96c71e350a4304c"
+                                  },
+                     "e591663b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
+                                      "fileName":  "createbigcannons-5.11.3+mc.1.21.1.jar",
+                                      "projectName":  "Create Big Cannons",
+                                      "projectId":  "GWp4jCJj",
+                                      "sha256":  "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
+                                  },
+                     "4185ebae":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/DX0OFVMh/versions/VFj6Aqqb/better_contraption_diagram-1.0.0-a.jar",
+                                      "fileName":  "better_contraption_diagram-1.0.0-a.jar",
+                                      "projectName":  "BetterContraptionDiagram",
+                                      "projectId":  "DX0OFVMh",
+                                      "sha256":  "949507fc494b72a7b3b6bb544109ecbff88fa0ee9ebc04334dabb5078e875829"
+                                  },
+                     "f7493ab5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/idMHQ4n2/versions/9sCm2d9K/CustomSkinLoader_Universal-14.28.jar",
+                                      "fileName":  "CustomSkinLoader_Universal-14.28.jar",
+                                      "projectName":  "CustomSkinLoader",
+                                      "projectId":  "idMHQ4n2",
+                                      "sha256":  "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894"
+                                  },
+                     "83420f88":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
+                                      "fileName":  "interiors-1.21.1-neoforge-0.6.1.jar",
+                                      "projectName":  "Create: Interiors",
+                                      "projectId":  "r4Knci2k",
+                                      "sha256":  "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+                                  },
+                     "788cc8b5":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/wbgfS34j/versions/1lKlr9Uf/FramedBlocks-10.6.0.jar",
+                                      "fileName":  "FramedBlocks-10.6.0.jar",
+                                      "projectName":  "FramedBlocks",
+                                      "projectId":  "wbgfS34j",
+                                      "sha256":  "d46c7fe14be51580a2e9761b18daaf81ef774f4aff05f7e88ed50ad6845eba02"
+                                  },
+                     "68fca74b":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/3sjzyvGR/versions/RM220vWV/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+                                      "fileName":  "ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+                                      "projectName":  "Modern UI",
+                                      "projectId":  "3sjzyvGR",
+                                      "sha256":  "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0"
+                                  },
+                     "b1b8e531":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/BLu2Yqfq/versions/vz0tPRci/create_radar-0.4.9.2-1.21.1.jar",
+                                      "fileName":  "create_radar-0.4.9.2-1.21.1.jar",
+                                      "projectName":  "Create: Radars",
+                                      "projectId":  "BLu2Yqfq",
+                                      "sha256":  "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe"
+                                  },
+                     "5ca2d353":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/TlQAWQCY/versions/39QDJgBi/CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar",
+                                      "fileName":  "CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar",
+                                      "projectName":  "Create: Cyber Goggles",
+                                      "projectId":  "TlQAWQCY",
+                                      "sha256":  "8c76e91994ca0fa7e51939bf9b031dae3dd8793ddc6d2c0e7578a0873ddf137c"
+                                  },
+                     "cd9744c8":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/9PsdRq7Q/versions/NHXvaWNX/cbc_equally_opposite-0.1.3.jar",
+                                      "fileName":  "cbc_equally_opposite-0.1.3.jar",
+                                      "projectName":  "Create Big Cannons: Equally Opposite",
+                                      "projectId":  "9PsdRq7Q",
+                                      "sha256":  "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159"
+                                  },
+                     "8ff72eb9":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/EYJ4oFpq/versions/6rXJYRFq/aero_reformation-1.1.4.jar",
+                                      "fileName":  "aero_reformation-1.1.4.jar",
+                                      "projectName":  "Aero-Reformation",
+                                      "projectId":  "EYJ4oFpq",
+                                      "sha256":  "71f308e24d02b4ddff81f8a8bf2bb51a42fbb4762478c2b0c7021a951dfdc3b6"
+                                  },
+                     "421865a7":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/Jc6WJafg/versions/IXkK9fNU/net_music_list-2.3.4.jar",
+                                      "fileName":  "net_music_list-2.3.4.jar",
+                                      "projectName":  "Net Music: Play List",
+                                      "projectId":  "Jc6WJafg",
+                                      "sha256":  "7aeeea7a21a656337a1a0e1b1e5775157cfa222974dc2998fc4f991dcbdf6ee0"
+                                  },
+                     "b9d03347":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+                                      "fileName":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                                      "projectName":  "YetAnotherConfigLib (YACL)",
+                                      "projectId":  "1eAoo2KR",
+                                      "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+                                  },
+                     "2f9d9655":  {
+                                      "source":  "modrinth",
+                                      "downloadUrl":  "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+                                      "fileName":  "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+                                      "projectName":  "VS / Sable Hose Connectors",
+                                      "projectId":  "YaZEkFmd",
+                                      "sha256":  "1cc8953b1aa239a11a4a4e329f886a1d7e00cbc5e8ada5d546527bbd9d46abd4"
+                                  }
+                 }
+}

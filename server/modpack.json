@@ -1,6 +1,650 @@
 {
-    "changelog":  "v1.0.12 (2026-06-01 00:58)\r\n\r\nNo changes.",
+    "changelog":  "v1.0.17 (2026-06-01 02:33)\r\n\r\nNo changes.",
     "files":  [
+                  {
+                      "prefix":  "82850cf4",
+                      "path":  "mods/82850cf4_createaddition-1.5.11.jar",
+                      "sha256":  "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/kU1G12Nn/versions/3ptU8Nq9/createaddition-1.5.11.jar"
+                  },
+                  {
+                      "prefix":  "7ac8b89b",
+                      "path":  "mods/7ac8b89b_rha-1.0.2-1.21.1.jar",
+                      "sha256":  "aeb1c27231ee83927b7466073ff4df58679357d16712c99601613c4551ce41bb",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/UFXAeoqT/versions/CBZYal5h/rha-1.0.2-1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "590b6cb9",
+                      "path":  "mods/590b6cb9_create_aeronautics_transmission_linkage-0.2.3.jar",
+                      "sha256":  "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/Y1dq5ioE/versions/4m4AqUqT/create_aeronautics_transmission_linkage-0.2.3.jar"
+                  },
+                  {
+                      "prefix":  "6eb3e699",
+                      "path":  "mods/6eb3e699_movabletracks-1.0.1.jar",
+                      "sha256":  "fe0976463d5f4e45a8e6f49a064cda1f72ab4a814ecb805603e421e05b458284",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/xX4m1GME/versions/JIha8XmV/movabletracks-1.0.1.jar"
+                  },
+                  {
+                      "prefix":  "1ef46df5",
+                      "path":  "mods/1ef46df5_railways-0.2.0+neoforge-mc1.21.1.jar",
+                      "sha256":  "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/L3Jv0QZI/versions/oQKsMKfj/railways-0.2.0%2Bneoforge-mc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "925fe187",
+                      "path":  "mods/925fe187_CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+                      "sha256":  "ba59a5a0afaba5d7d70c4b5844df2952696af1d5040c800916bd3479a73487c0",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/OsZiaDHq/versions/SCrlV5vO/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "75e4c90b",
+                      "path":  "mods/75e4c90b_sable_createaddition_compat-0.1.13.jar",
+                      "sha256":  "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/5njdnAZ8/versions/x7OaOLDX/sable_createaddition_compat-0.1.13.jar"
+                  },
+                  {
+                      "prefix":  "28ce6073",
+                      "path":  "mods/28ce6073_architectury-13.0.8-neoforge.jar",
+                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "a5b090c4",
+                      "path":  "mods/a5b090c4_createthrusters-bundled-0.1.10.jar",
+                      "sha256":  "c1d528230dbc9f3034fd191c479c1b624b350d57275c978cb0f1f28bb18bfbc6",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/Sza3GgEL/versions/J3z85r47/createthrusters-bundled-0.1.10.jar"
+                  },
+                  {
+                      "prefix":  "4d4bb3ab",
+                      "path":  "mods/4d4bb3ab_tweakerge-0.4.3+mc1.21.1.jar",
+                      "sha256":  "c19f6e2200dd21b32b90119098a0608692605c4ced91146e67ea61e0e9855277",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "dfd25399",
+                      "path":  "mods/dfd25399_xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                      "sha256":  "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+                  },
+                  {
+                      "prefix":  "f68eda0e",
+                      "path":  "mods/f68eda0e_create_aeronautics_toolgun-0.2.0.jar",
+                      "sha256":  "506a0db3f4f17f55ae32e09254ee7b201be784fca686cb749286b21ad024c995",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/5fUBLqeW/versions/f3dJL2d2/create_aeronautics_toolgun-0.2.0.jar"
+                  },
+                  {
+                      "prefix":  "52e78cd6",
+                      "path":  "mods/52e78cd6_sim_copycats-1.1.6.jar",
+                      "sha256":  "2e37fb6157cc70248abe3fc3aed6404e6847d1fee18bae2328fff1d90250e8d6",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/NYBH9vVY/versions/3mf1vH18/sim_copycats-1.1.6.jar"
+                  },
+                  {
+                      "prefix":  "6a7e9179",
+                      "path":  "mods/6a7e9179_create_tweaked_controllers-1.21.1-1.2.7.jar",
+                      "sha256":  "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/csCe2v7f/create_tweaked_controllers-1.21.1-1.2.7.jar"
+                  },
+                  {
+                      "prefix":  "fcdb77a8",
+                      "path":  "mods/fcdb77a8_sable-neoforge-1.21.1-1.2.2.jar",
+                      "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
+                  },
+                  {
+                      "prefix":  "9c7c3e80",
+                      "path":  "mods/9c7c3e80_fairylights-neoforge-1.21.1-1.2.5.jar",
+                      "sha256":  "50516791b25aff735a56981463a251d06d2c5f0953db4bd7d2610d44b5ca9d56",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/wKhMANDF/versions/jjPFmew9/fairylights-neoforge-1.21.1-1.2.5.jar"
+                  },
+                  {
+                      "prefix":  "f1487802",
+                      "path":  "mods/f1487802_bits_n_bobs-0.0.44.jar",
+                      "sha256":  "6d8268d82cc6e38dd13f5247b28f37b7a35d66cb476c6e0632f4e9ba5570f5d8",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar"
+                  },
+                  {
+                      "prefix":  "579421cc",
+                      "path":  "mods/579421cc_createpropulsion-1.1.4.jar",
+                      "sha256":  "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/ApkoHNO9/versions/hTnJ29I0/createpropulsion-1.1.4.jar"
+                  },
+                  {
+                      "prefix":  "8fca1427",
+                      "path":  "mods/8fca1427_Design-n-Decor-1.21.1-2.2b.jar",
+                      "sha256":  "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
+                  },
+                  {
+                      "prefix":  "84940266",
+                      "path":  "mods/84940266_createsensors-1.0.1.jar",
+                      "sha256":  "c6bd26a54fdc1cd0c0aa9f0d36a984396c049c028d828279e2d1d1d97d12fefc",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/H2ZeQ6PO/versions/GZAktxSu/createsensors-1.0.1.jar"
+                  },
+                  {
+                      "prefix":  "cdc8f864",
+                      "path":  "mods/cdc8f864_iris-neoforge-1.8.12+mc1.21.1.jar",
+                      "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "926bbdc4",
+                      "path":  "mods/926bbdc4_hotstuff-1.1.4.jar",
+                      "sha256":  "df4393c96368ca9b50a9bf0142f40a4e81ae77454edb5c8900b83247539f0892",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/UFCtLrRv/versions/bPamUYgs/hotstuff-1.1.4.jar"
+                  },
+                  {
+                      "prefix":  "c5996db2",
+                      "path":  "mods/c5996db2_sablejade-1.1.0.jar",
+                      "sha256":  "4dd8f4c4da084a4287c6ef067ae1b017186bd176aad90b0d433d89c759fb1369",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/jCrJ4iGH/versions/Cayoq42b/sablejade-1.1.0.jar"
+                  },
+                  {
+                      "prefix":  "2e212c7b",
+                      "path":  "mods/2e212c7b_createendertransmission-2.1.1-1.21.1.jar",
+                      "sha256":  "13f237796ba51312a385ebd55b252c55598d49bcf677ea68f0bfb9bd88c23b63",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/wtW8g4TG/versions/eI9pk5JC/createendertransmission-2.1.1-1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "fc879241",
+                      "path":  "mods/fc879241_space_war_aeronautics-0.1.4.jar",
+                      "sha256":  "21df4ab100078c035aab909bc022482e7ed9b31c8907c7a69845091a95f48083",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/fzGgb6N0/versions/NTXVdUI1/space_war_aeronautics-0.1.4.jar"
+                  },
+                  {
+                      "prefix":  "68fca74b",
+                      "path":  "mods/68fca74b_ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+                      "sha256":  "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/3sjzyvGR/versions/RM220vWV/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar"
+                  },
+                  {
+                      "prefix":  "96a952ba",
+                      "path":  "mods/96a952ba_createbetterfps-1.21.1-1.1.4.jar",
+                      "sha256":  "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar"
+                  },
+                  {
+                      "prefix":  "20856ab3",
+                      "path":  "mods/20856ab3_ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+                      "sha256":  "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "56bd86dd",
+                      "path":  "mods/56bd86dd_lanserverproperties-1.13.2-neoforge.jar",
+                      "sha256":  "071d882002d7f5348d7385e9f0ff8592e4a2433de24731c02c07d2cd41eededd",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/SqnBX2qd/versions/C1Wg17Qf/lanserverproperties-1.13.2-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "9d67506f",
+                      "path":  "mods/9d67506f_worldedit-mod-7.3.8.jar",
+                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
+                  },
+                  {
+                      "prefix":  "63d083b5",
+                      "path":  "mods/63d083b5_windtunnel-1.1.8.jar",
+                      "sha256":  "ab48fa3741870f2917906285798f52b0f58b0f86849d920d1209ed5891d480c5",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/EnEqwk7y/versions/IdHA8JDW/windtunnel-1.1.8.jar"
+                  },
+                  {
+                      "prefix":  "d8f032a5",
+                      "path":  "mods/d8f032a5_curios-neoforge-9.5.1+1.21.1.jar",
+                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "2f9d9655",
+                      "path":  "mods/2f9d9655_VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+                      "sha256":  "1cc8953b1aa239a11a4a4e329f886a1d7e00cbc5e8ada5d546527bbd9d46abd4",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/YaZEkFmd/versions/AJSmuGAV/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "7f287536",
+                      "path":  "mods/7f287536_createdieselgenerators-1.21.1-1.3.12.jar",
+                      "sha256":  "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/ZM3tt6p1/versions/3PddTDD8/createdieselgenerators-1.21.1-1.3.12.jar"
+                  },
+                  {
+                      "prefix":  "7d1eed0b",
+                      "path":  "mods/7d1eed0b_sable-chunk-guard-1.0.0.jar",
+                      "sha256":  "98f2f78f603a15d1a65c1a51bc5aeed4310f60b31e3be205136fb493dd3f00b4",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/1Fxnt8na/versions/aftA84Bf/sable-chunk-guard-1.0.0.jar"
+                  },
+                  {
+                      "prefix":  "82675d7d",
+                      "path":  "mods/82675d7d_mafglib-0.4.3+mc1.21.1.jar",
+                      "sha256":  "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "b08136ee",
+                      "path":  "mods/b08136ee_yuushya_modelling-1.21.1-2.4.1.jar",
+                      "sha256":  "eede4bd24a1b20aeb007c03761903aed8061b9b826dc68349a8ca146c9944ae5",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/RxVV6ldg/versions/BEzfp616/yuushya_modelling-1.21.1-2.4.1.jar"
+                  },
+                  {
+                      "prefix":  "ca2219ac",
+                      "path":  "mods/ca2219ac_createprism-1.2.2.jar",
+                      "sha256":  "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/udEtt0b2/versions/gKqw2akx/createprism-1.2.2.jar"
+                  },
+                  {
+                      "prefix":  "d87b49d7",
+                      "path":  "mods/d87b49d7_iris-flywheel-compat-NeoForge-2.4.0.jar",
+                      "sha256":  "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar"
+                  },
+                  {
+                      "prefix":  "e6ce1d8f",
+                      "path":  "mods/e6ce1d8f_create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                      "sha256":  "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+                  },
+                  {
+                      "prefix":  "db365b54",
+                      "path":  "mods/db365b54_irisveil-0.1.0.jar",
+                      "sha256":  "e1b5540daff9837b62e95d33504e16ef4fc4f9e3fc5c55bc13984b1a46713f95",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/owQyCHo4/versions/x3vxqNpo/irisveil-0.1.0.jar"
+                  },
+                  {
+                      "prefix":  "845fadd4",
+                      "path":  "mods/845fadd4_modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/nmDcB62a/versions/nWk1yGgV/modernfix-neoforge-5.27.11%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "5e6be532",
+                      "path":  "mods/5e6be532_supplementaries-neoforge-1.21.1-3.6.6.jar",
+                      "sha256":  "2da254e27f1764005413f8361d39b106fc217bb2dd50ad972afc274f047e8a2d",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/fFEIiSDQ/versions/iZW24EZo/supplementaries-neoforge-1.21.1-3.6.6.jar"
+                  },
+                  {
+                      "prefix":  "32b8961c",
+                      "path":  "mods/32b8961c_Chunky-NeoForge-1.4.23.jar",
+                      "sha256":  "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+                  },
+                  {
+                      "prefix":  "8641307c",
+                      "path":  "mods/8641307c_copycats-3.0.4+mc.1.21.1-neoforge.jar",
+                      "sha256":  "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "98f11b7a",
+                      "path":  "mods/98f11b7a_spark-1.10.124-neoforge.jar",
+                      "sha256":  "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "57f10a5d",
+                      "path":  "mods/57f10a5d_touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+                      "sha256":  "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/R0bDWFAW/versions/tXG1TkGx/touhoulittlemaid-1.5.3-neoforge%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "4505174c",
+                      "path":  "mods/4505174c_kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
+                      "sha256":  "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "7a44d36e",
+                      "path":  "mods/7a44d36e_cc_sable-neoforge-1.3.4.jar",
+                      "sha256":  "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar"
+                  },
+                  {
+                      "prefix":  "8903940d",
+                      "path":  "mods/8903940d_create_circuits-1.0.0.jar",
+                      "sha256":  "b32ba0db23c17d6416010f9e477ea0f6a6c79f8ec066d8fb1acb51e32f64ada4",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/jTF6HzES/versions/NnUgF4fK/create_circuits-1.0.0.jar"
+                  },
+                  {
+                      "prefix":  "e6aebd03",
+                      "path":  "mods/e6aebd03_WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar",
+                      "sha256":  "44b7acfdb675cbd442c42a37efee67a21979895961a60348cf61c7447de0ff31",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/lOELapP1/versions/YrN5j3qw/WorldEditCUI-NeoForge-1.21.1%2B01-SNAPSHOT.jar"
+                  },
+                  {
+                      "prefix":  "7e4b463e",
+                      "path":  "mods/7e4b463e_lithostitched-1.7.9-neoforge-21.1.jar",
+                      "sha256":  "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/XaDC71GB/versions/wiffJSbz/lithostitched-1.7.9-neoforge-21.1.jar"
+                  },
+                  {
+                      "prefix":  "72f25935",
+                      "path":  "mods/72f25935_cloth-config-15.0.140-neoforge.jar",
+                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "a57d6a87",
+                      "path":  "mods/a57d6a87_FarmersDelight-1.21.1-1.3.2.jar",
+                      "sha256":  "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar"
+                  },
+                  {
+                      "prefix":  "8f749da2",
+                      "path":  "mods/8f749da2_aeronauticscompat-1.1.0.jar",
+                      "sha256":  "5ac2f996203ca3abc41b1d01b5ec0cc194e41c0f5f75401ae12cb17561a73106",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/aLVC5usA/versions/NH6rRib7/aeronauticscompat-1.1.0.jar"
+                  },
+                  {
+                      "prefix":  "f7493ab5",
+                      "path":  "mods/f7493ab5_CustomSkinLoader_Universal-14.28.jar",
+                      "sha256":  "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/idMHQ4n2/versions/9sCm2d9K/CustomSkinLoader_Universal-14.28.jar"
+                  },
+                  {
+                      "prefix":  "806c0fc6",
+                      "path":  "mods/806c0fc6_synaxis-1.2.1.jar",
+                      "sha256":  "3cc00f2aa6d59a230467198b33b68db9b0b6ada4855998231485299bfceafa9c",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/aJewFWOb/versions/KnVJhNRQ/synaxis-1.2.1.jar"
+                  },
+                  {
+                      "prefix":  "fa53b47b",
+                      "path":  "mods/fa53b47b_player-animation-lib-forge-2.0.4+1.21.1.jar",
+                      "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "91b782c5",
+                      "path":  "mods/91b782c5_kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+                      "sha256":  "938c8825ec42613cf148b11e672008b96ec10f3f7c9335ef54627edce944b5f3",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/r9RZvhiJ/versions/60r2i5sT/kaleidoscopetavern-1.1.2-neoforge%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "78dd23a5",
+                      "path":  "mods/78dd23a5_sabledramaticimpact-1.0.0.jar",
+                      "sha256":  "bc12e107dc05cefc4795781836194a3c5cef3c9cc2bcb278cc3a35331f0ca1b2",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/82kuUv49/versions/cyLPsvEf/sabledramaticimpact-1.0.0.jar"
+                  },
+                  {
+                      "prefix":  "c71a12be",
+                      "path":  "mods/c71a12be_yuushya-1.21.0-neoforge-2.3.0.jar",
+                      "sha256":  "c410c51e1ecdd9d3ff55eb34b84d71da761a8990ec0993a766c9ba40e8c360e8",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/lfVtagkm/versions/L2HpYsbq/yuushya-1.21.0-neoforge-2.3.0.jar"
+                  },
+                  {
+                      "prefix":  "61e646cf",
+                      "path":  "mods/61e646cf_resourcefullib-neoforge-1.21-3.0.12.jar",
+                      "sha256":  "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"
+                  },
+                  {
+                      "prefix":  "f9f32150",
+                      "path":  "mods/f9f32150_Jade-VS-neoforge-1.21.1-2.0.0.jar",
+                      "sha256":  "24bb0565c63e8647b2a458786b4c6e6831ea1a98c6cb2e6a6e668b2f0f770742",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/zNKzjsZM/versions/6EnjDln1/Jade-VS-neoforge-1.21.1-2.0.0.jar"
+                  },
+                  {
+                      "prefix":  "288b938d",
+                      "path":  "mods/288b938d_geckolib-neoforge-1.21.1-4.8.4.jar",
+                      "sha256":  "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar"
+                  },
+                  {
+                      "prefix":  "dcac6d58",
+                      "path":  "mods/dcac6d58_flerovium-neoforge-1.21.1-1.0.18-all.jar",
+                      "sha256":  "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/4Rh1Mobu/versions/ROADZx1W/flerovium-neoforge-1.21.1-1.0.18-all.jar"
+                  },
+                  {
+                      "prefix":  "4b0a0dac",
+                      "path":  "mods/4b0a0dac_create_connected-1.2.0-mc1.21.1.jar",
+                      "sha256":  "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/Vg5TIO6d/versions/tSy3IGxT/create_connected-1.2.0-mc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "23b7f878",
+                      "path":  "mods/23b7f878_create_aeronautics_automated_logistics-0.3.0.jar",
+                      "sha256":  "d82198d1d9e3fe2ecb8de65b3da088d8ce3115df1e1442d6c08ad1e10cb9edaf",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/73ZXeRfx/versions/Lr07X5oA/create_aeronautics_automated_logistics-0.3.0.jar"
+                  },
+                  {
+                      "prefix":  "b0549255",
+                      "path":  "mods/b0549255_createmoderntech-1.0.2.jar",
+                      "sha256":  "783988804ff8ef709bc38c1a6f87e7b8494001e82d218eff6644bee3402efeb5",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/maiVPGYD/versions/WI83Jl82/createmoderntech-1.0.2.jar"
+                  },
+                  {
+                      "prefix":  "e2e6a345",
+                      "path":  "mods/e2e6a345_moonlight-neoforge-1.21.1-3.0.14.jar",
+                      "sha256":  "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/twkfQtEc/versions/er7S98Q1/moonlight-neoforge-1.21.1-3.0.14.jar"
+                  },
+                  {
+                      "prefix":  "5fbb56dc",
+                      "path":  "mods/5fbb56dc_sablephysicscompat-1.3.0.jar",
+                      "sha256":  "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar"
+                  },
+                  {
+                      "prefix":  "b2e1ac0d",
+                      "path":  "mods/b2e1ac0d_createdeco-2.1.3.jar",
+                      "sha256":  "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+                  },
+                  {
+                      "prefix":  "e30b0d86",
+                      "path":  "mods/e30b0d86_jei-1.21.1-neoforge-19.27.0.340.jar",
+                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar"
+                  },
+                  {
+                      "prefix":  "473f2111",
+                      "path":  "mods/473f2111_create_aeronautics_throwable_rope_connector-0.3.0.jar",
+                      "sha256":  "65fe991794a95e5b9d2f7bd5c117e2dd8fbb2b9c24b59f9afcd9d6080158e9ff",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/9xiCbKmM/versions/eHt4XwTE/create_aeronautics_throwable_rope_connector-0.3.0.jar"
+                  },
+                  {
+                      "prefix":  "eb9642ad",
+                      "path":  "mods/eb9642ad_CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar",
+                      "sha256":  "9d7fe7ea92cd9f48f9ba913e9a3afd6db85c22774c903bd9ce29088d838d7aa8",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/hZw3uqi3/versions/gnOLADrt/CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "76ea0beb",
+                      "path":  "mods/76ea0beb_create-1.21.1-6.0.10.jar",
+                      "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+                  },
+                  {
+                      "prefix":  "d4369cb6",
+                      "path":  "mods/d4369cb6_chipped-neoforge-1.21.1-4.0.2.jar",
+                      "sha256":  "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar"
+                  },
+                  {
+                      "prefix":  "ede1a627",
+                      "path":  "mods/ede1a627_AdvancedBackups-neoforge-1.21-3.7.1.jar",
+                      "sha256":  "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/Jrmoreqs/versions/ufIaRDFo/AdvancedBackups-neoforge-1.21-3.7.1.jar"
+                  },
+                  {
+                      "prefix":  "41a132d0",
+                      "path":  "mods/41a132d0_create_submarine-2.1.3.jar",
+                      "sha256":  "734bef3d708b4ccb35f2196193f3af217a10ddcfc78a97493da3245822c56d2b",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/mva5q4qZ/versions/euMtX6NU/create_submarine-2.1.3.jar"
+                  },
+                  {
+                      "prefix":  "8805fcf8",
+                      "path":  "mods/8805fcf8_create_compact_transmission-1.0.6.jar",
+                      "sha256":  "ff473c30977840b6073d59d4712d0e0e9d1b98900f09d177c96c71e350a4304c",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/qBkvR8oH/versions/ZshDdrRJ/create_compact_transmission-1.0.6.jar"
+                  },
+                  {
+                      "prefix":  "e591663b",
+                      "path":  "mods/e591663b_createbigcannons-5.11.3+mc.1.21.1.jar",
+                      "sha256":  "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "4185ebae",
+                      "path":  "mods/4185ebae_better_contraption_diagram-1.0.0-a.jar",
+                      "sha256":  "949507fc494b72a7b3b6bb544109ecbff88fa0ee9ebc04334dabb5078e875829",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/DX0OFVMh/versions/VFj6Aqqb/better_contraption_diagram-1.0.0-a.jar"
+                  },
+                  {
+                      "prefix":  "df4e409f",
+                      "path":  "mods/df4e409f_net_music_login_need-1.21.1-0.4.jar",
+                      "sha256":  "b8ca1ed4cf2f389a011767e340f607e9caa224ef692725aa33e391e6fe0b8085",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/hoXcy0f7/versions/46STwUIx/net_music_login_need-1.21.1-0.4.jar"
+                  },
+                  {
+                      "prefix":  "83420f88",
+                      "path":  "mods/83420f88_interiors-1.21.1-neoforge-0.6.1.jar",
+                      "sha256":  "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar"
+                  },
+                  {
+                      "prefix":  "788cc8b5",
+                      "path":  "mods/788cc8b5_FramedBlocks-10.6.0.jar",
+                      "sha256":  "d46c7fe14be51580a2e9761b18daaf81ef774f4aff05f7e88ed50ad6845eba02",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/wbgfS34j/versions/1lKlr9Uf/FramedBlocks-10.6.0.jar"
+                  },
+                  {
+                      "prefix":  "5c9db47e",
+                      "path":  "mods/5c9db47e_Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+                      "sha256":  "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/QQXAdCzh/versions/Zrh2Fmn9/Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "b1b8e531",
+                      "path":  "mods/b1b8e531_create_radar-0.4.9.2-1.21.1.jar",
+                      "sha256":  "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/BLu2Yqfq/versions/vz0tPRci/create_radar-0.4.9.2-1.21.1.jar"
+                  },
+                  {
+                      "prefix":  "5ca2d353",
+                      "path":  "mods/5ca2d353_CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar",
+                      "sha256":  "8c76e91994ca0fa7e51939bf9b031dae3dd8793ddc6d2c0e7578a0873ddf137c",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/TlQAWQCY/versions/39QDJgBi/CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar"
+                  },
+                  {
+                      "prefix":  "cd9744c8",
+                      "path":  "mods/cd9744c8_cbc_equally_opposite-0.1.3.jar",
+                      "sha256":  "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/9PsdRq7Q/versions/NHXvaWNX/cbc_equally_opposite-0.1.3.jar"
+                  },
+                  {
+                      "prefix":  "8ff72eb9",
+                      "path":  "mods/8ff72eb9_aero_reformation-1.1.4.jar",
+                      "sha256":  "71f308e24d02b4ddff81f8a8bf2bb51a42fbb4762478c2b0c7021a951dfdc3b6",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/EYJ4oFpq/versions/6rXJYRFq/aero_reformation-1.1.4.jar"
+                  },
+                  {
+                      "prefix":  "421865a7",
+                      "path":  "mods/421865a7_net_music_list-2.3.4.jar",
+                      "sha256":  "7aeeea7a21a656337a1a0e1b1e5775157cfa222974dc2998fc4f991dcbdf6ee0",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/Jc6WJafg/versions/IXkK9fNU/net_music_list-2.3.4.jar"
+                  },
+                  {
+                      "prefix":  "b9d03347",
+                      "path":  "mods/b9d03347_yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                      "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+                  },
+                  {
+                      "prefix":  "588360c1",
+                      "path":  "mods/588360c1_immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                      "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972",
+                      "source":  "modrinth",
+                      "downloadUrl":  "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar"
+                  },
                   {
                       "prefix":  "011a8b84",
                       "path":  "mods/011a8b84_【军武】CBC-Military-Supplement-1.21.1-2.0.12.jar",
@@ -72,11 +716,6 @@
                       "sha256":  "5f5e4ffacc59eb1a5adfa35b20011b6e6274ba825e7b7b483922551d01fbcf5a"
                   },
                   {
-                      "prefix":  "1ef46df5",
-                      "path":  "mods/1ef46df5_【汽鸣铁道】railways-0.2.0+neoforge-mc1.21.1.jar",
-                      "sha256":  "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
-                  },
-                  {
                       "prefix":  "1f477bc1",
                       "path":  "mods/1f477bc1_【跑酷！】ParCool-1.21.1-3.4.3.3-NF.jar",
                       "sha256":  "023774b63cbacf9f17ea6404a212ec2e4e4f9777f1b7bbaea8fbb62f3f0463db"
@@ -87,29 +726,9 @@
                       "sha256":  "2e4ea14974bf656904885bc3272bba27a7e8cad6e8c33e47c248bec05078f774"
                   },
                   {
-                      "prefix":  "20856ab3",
-                      "path":  "mods/20856ab3_ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
-                      "sha256":  "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
-                  },
-                  {
-                      "prefix":  "23b7f878",
-                      "path":  "mods/23b7f878_【自动驾驶】create_aeronautics_automated_logistics-0.3.0.jar",
-                      "sha256":  "d82198d1d9e3fe2ecb8de65b3da088d8ce3115df1e1442d6c08ad1e10cb9edaf"
-                  },
-                  {
                       "prefix":  "266e0d3d",
                       "path":  "mods/266e0d3d_[信雅互联] connector-2.0.0-beta.14+1.21.1-full.jar",
                       "sha256":  "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
-                  },
-                  {
-                      "prefix":  "288b938d",
-                      "path":  "mods/288b938d_geckolib-neoforge-1.21.1-4.8.4.jar",
-                      "sha256":  "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
-                  },
-                  {
-                      "prefix":  "28ce6073",
-                      "path":  "mods/28ce6073_architectury-13.0.8-neoforge (1).jar",
-                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
                   },
                   {
                       "prefix":  "2c1d5ce9",
@@ -117,24 +736,9 @@
                       "sha256":  "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f"
                   },
                   {
-                      "prefix":  "2e212c7b",
-                      "path":  "mods/2e212c7b_[机械动力：末影传输] createendertransmission-2.1.1-1.21.1.jar",
-                      "sha256":  "13f237796ba51312a385ebd55b252c55598d49bcf677ea68f0bfb9bd88c23b63"
-                  },
-                  {
-                      "prefix":  "2f9d9655",
-                      "path":  "mods/2f9d9655_【跨结构传输】VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
-                      "sha256":  "1cc8953b1aa239a11a4a4e329f886a1d7e00cbc5e8ada5d546527bbd9d46abd4"
-                  },
-                  {
                       "prefix":  "3008c780",
                       "path":  "mods/3008c780_framework-neoforge-1.21.1-0.13.11.jar",
                       "sha256":  "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
-                  },
-                  {
-                      "prefix":  "32b8961c",
-                      "path":  "mods/32b8961c_[预生成区块] Chunky-NeoForge-1.4.23.jar",
-                      "sha256":  "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
                   },
                   {
                       "prefix":  "36b45d31",
@@ -157,34 +761,9 @@
                       "sha256":  "418290a09057fc7e28fd96ef697fa409d62cd6ad052d1d00c6fda37c8a1d12bd"
                   },
                   {
-                      "prefix":  "4185ebae",
-                      "path":  "mods/4185ebae_【蓝图重量对称】better_contraption_diagram-1.0.0-a.jar",
-                      "sha256":  "949507fc494b72a7b3b6bb544109ecbff88fa0ee9ebc04334dabb5078e875829"
-                  },
-                  {
-                      "prefix":  "41a132d0",
-                      "path":  "mods/41a132d0_【气室】create_submarine-2.1.3.jar",
-                      "sha256":  "734bef3d708b4ccb35f2196193f3af217a10ddcfc78a97493da3245822c56d2b"
-                  },
-                  {
-                      "prefix":  "421865a7",
-                      "path":  "mods/421865a7_[网络音乐机：播放列表] net_music_list-2.3.4.jar",
-                      "sha256":  "7aeeea7a21a656337a1a0e1b1e5775157cfa222974dc2998fc4f991dcbdf6ee0"
-                  },
-                  {
-                      "prefix":  "4505174c",
-                      "path":  "mods/4505174c_【森罗物语：厨房】kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
-                      "sha256":  "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff"
-                  },
-                  {
                       "prefix":  "459f6263",
                       "path":  "mods/459f6263_【chipped前置】athena-neoforge-1.21.1-4.0.6.jar",
                       "sha256":  "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
-                  },
-                  {
-                      "prefix":  "473f2111",
-                      "path":  "mods/473f2111_【投掷航空学绳索】create_aeronautics_throwable_rope_connector-0.3.0.jar",
-                      "sha256":  "65fe991794a95e5b9d2f7bd5c117e2dd8fbb2b9c24b59f9afcd9d6080158e9ff"
                   },
                   {
                       "prefix":  "4799ecfb",
@@ -197,24 +776,9 @@
                       "sha256":  "6e973cff926db4b70cf36b745933ebdc1469e2c02eefd245f9c2fe3bf2eb1248"
                   },
                   {
-                      "prefix":  "4b0a0dac",
-                      "path":  "mods/4b0a0dac_[机械动力：创意传动] create_connected-1.2.0-mc1.21.1.jar",
-                      "sha256":  "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62"
-                  },
-                  {
-                      "prefix":  "4d4bb3ab",
-                      "path":  "mods/4d4bb3ab_tweakerge-0.4.3+mc1.21.1.jar",
-                      "sha256":  "c19f6e2200dd21b32b90119098a0608692605c4ced91146e67ea61e0e9855277"
-                  },
-                  {
                       "prefix":  "511b6c37",
                       "path":  "mods/511b6c37_【锂】lithium-neoforge-0.15.3+mc1.21.1.jar",
                       "sha256":  "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
-                  },
-                  {
-                      "prefix":  "52e78cd6",
-                      "path":  "mods/52e78cd6_【可变属性伪装方块】sim_copycats-1.1.6.jar",
-                      "sha256":  "2e37fb6157cc70248abe3fc3aed6404e6847d1fee18bae2328fff1d90250e8d6"
                   },
                   {
                       "prefix":  "564cae55",
@@ -222,34 +786,9 @@
                       "sha256":  "8f9c789bdb2cf65264cf1f3dc88201583d96fe726d64920c99e638a93de75ba3"
                   },
                   {
-                      "prefix":  "56bd86dd",
-                      "path":  "mods/56bd86dd_【自定义局域网联机】lanserverproperties-1.13.2-neoforge.jar",
-                      "sha256":  "7a0a065c7412116d8202d48ed05a475e6ac096cff798c99948f17b7140afdb10"
-                  },
-                  {
                       "prefix":  "56d7b7f2",
                       "path":  "mods/56d7b7f2_【可变重量方块】CreateAeronauticsVariableWeightBlock-1.21.1-1.0.0.jar",
                       "sha256":  "f9fc9ba1cdc15510782140ef8ff674bfeabb5ef251d8173b179a99b6ebc64420"
-                  },
-                  {
-                      "prefix":  "579421cc",
-                      "path":  "mods/579421cc_【推进器】createpropulsion-1.1.4.jar",
-                      "sha256":  "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
-                  },
-                  {
-                      "prefix":  "57f10a5d",
-                      "path":  "mods/57f10a5d_【车万女仆】touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
-                      "sha256":  "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27"
-                  },
-                  {
-                      "prefix":  "588360c1",
-                      "path":  "mods/588360c1_【沉浸式奏乐】immersive_melodies-neoforge-0.6.4+1.21.1.jar",
-                      "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972"
-                  },
-                  {
-                      "prefix":  "590b6cb9",
-                      "path":  "mods/590b6cb9_【万向节】create_aeronautics_transmission_linkage-0.2.3.jar",
-                      "sha256":  "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92"
                   },
                   {
                       "prefix":  "59fff2d6",
@@ -257,49 +796,9 @@
                       "sha256":  "efe50cab90043285fa1f6735cda4b742345871b6b15713e6581fa8df5420c8bb"
                   },
                   {
-                      "prefix":  "5c9db47e",
-                      "path":  "mods/5c9db47e_Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
-                      "sha256":  "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077"
-                  },
-                  {
-                      "prefix":  "5ca2d353",
-                      "path":  "mods/5ca2d353_【机械动力：赛博护目镜】CreateCyberGoggles-1.21.1-7.6.5-NeoForge.jar",
-                      "sha256":  "8c76e91994ca0fa7e51939bf9b031dae3dd8793ddc6d2c0e7578a0873ddf137c"
-                  },
-                  {
-                      "prefix":  "5e6be532",
-                      "path":  "mods/5e6be532_【锦致装饰】supplementaries-neoforge-1.21.1-3.6.5.jar",
-                      "sha256":  "c85968518ff822eb313b5ec8292f7f54d0cc9b4fe046ae5e7a3e4a40f6c8e76b"
-                  },
-                  {
-                      "prefix":  "5fbb56dc",
-                      "path":  "mods/5fbb56dc_sablephysicscompat-1.3.0.jar",
-                      "sha256":  "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
-                  },
-                  {
                       "prefix":  "613bbc09",
                       "path":  "mods/613bbc09_tacz_aero_compat-1.7.0.jar",
                       "sha256":  "c363a707cef584fec13603e17ebf4517fe5b37c50755f2c5f1a1eb44f2d344cd"
-                  },
-                  {
-                      "prefix":  "61e646cf",
-                      "path":  "mods/61e646cf_resourcefullib-neoforge-1.21-3.0.12.jar",
-                      "sha256":  "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
-                  },
-                  {
-                      "prefix":  "63d083b5",
-                      "path":  "mods/63d083b5_【风洞】windtunnel-1.1.8.jar",
-                      "sha256":  "ab48fa3741870f2917906285798f52b0f58b0f86849d920d1209ed5891d480c5"
-                  },
-                  {
-                      "prefix":  "68fca74b",
-                      "path":  "mods/68fca74b_[现代化 UI] ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
-                      "sha256":  "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0"
-                  },
-                  {
-                      "prefix":  "6a7e9179",
-                      "path":  "mods/6a7e9179_【机械动力：高级遥控器】create_tweaked_controllers-1.21.1-1.2.7.jar",
-                      "sha256":  "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
                   },
                   {
                       "prefix":  "6cdf6035",
@@ -317,69 +816,14 @@
                       "sha256":  "5f8eaa10a6d61aa7330ed997c4f812509c55f02f7213afbebde77c4af17c23c3"
                   },
                   {
-                      "prefix":  "6eb3e699",
-                      "path":  "mods/6eb3e699_tracks-neoforge-1.21.1-1.0.1.jar",
-                      "sha256":  "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"
-                  },
-                  {
-                      "prefix":  "72f25935",
-                      "path":  "mods/72f25935_cloth-config-15.0.140-neoforge.jar",
-                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
-                  },
-                  {
-                      "prefix":  "75e4c90b",
-                      "path":  "mods/75e4c90b_【电线跨结构】sable_createaddition_compat-0.1.13.jar",
-                      "sha256":  "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c"
-                  },
-                  {
-                      "prefix":  "76ea0beb",
-                      "path":  "mods/76ea0beb_[机械动力] create-1.21.1-6.0.10.jar",
-                      "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-                  },
-                  {
-                      "prefix":  "788cc8b5",
-                      "path":  "mods/788cc8b5_【框架方块】FramedBlocks-10.6.0.jar-框架方块.jar",
-                      "sha256":  "d46c7fe14be51580a2e9761b18daaf81ef774f4aff05f7e88ed50ad6845eba02"
-                  },
-                  {
-                      "prefix":  "78dd23a5",
-                      "path":  "mods/78dd23a5_【碰撞粒子效果】sabledramaticimpact-1.0.0.jar",
-                      "sha256":  "bc12e107dc05cefc4795781836194a3c5cef3c9cc2bcb278cc3a35331f0ca1b2"
-                  },
-                  {
-                      "prefix":  "7a44d36e",
-                      "path":  "mods/7a44d36e_前置cc_sable-neoforge-1.3.4.jar",
-                      "sha256":  "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb"
-                  },
-                  {
-                      "prefix":  "7ac8b89b",
-                      "path":  "mods/7ac8b89b_【装甲】rha-1.0.3-1.21.1.jar",
-                      "sha256":  "4e5d1c4ff49f112f8b335651ec7910991ff8658be7bfef9106effd54ebf83a21"
-                  },
-                  {
                       "prefix":  "7bb9d94c",
                       "path":  "mods/7bb9d94c_polylib-2100.1.0-build.183-neoforge.jar",
                       "sha256":  "6861974b2300c899627374470b81cf4922378cd042363c383c36d758fb3808cb"
                   },
                   {
-                      "prefix":  "7d1eed0b",
-                      "path":  "mods/7d1eed0b_【防sable炸区块】sable-chunk-guard-1.0.0.jar",
-                      "sha256":  "98f2f78f603a15d1a65c1a51bc5aeed4310f60b31e3be205136fb493dd3f00b4"
-                  },
-                  {
                       "prefix":  "7d664791",
                       "path":  "mods/7d664791_【传送器】beam_me_up-0.1.0.jar",
                       "sha256":  "3393857b69e5ccd71064a2d17c45d288f63e0167437cbd26653040b147be7c17"
-                  },
-                  {
-                      "prefix":  "7e4b463e",
-                      "path":  "mods/7e4b463e_lithostitched-1.7.9-neoforge-21.1.jar",
-                      "sha256":  "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
-                  },
-                  {
-                      "prefix":  "7f287536",
-                      "path":  "mods/7f287536_【机械动力：柴油动力】createdieselgenerators-1.21.1-1.3.12.jar",
-                      "sha256":  "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
                   },
                   {
                       "prefix":  "7f7880d1",
@@ -392,39 +836,9 @@
                       "sha256":  "2f441bf1023fe48e3a5b7447f255b1b344321c61b9c41f34c572469974763ad9"
                   },
                   {
-                      "prefix":  "806c0fc6",
-                      "path":  "mods/806c0fc6_【控制学】synaxis-1.2.1.jar",
-                      "sha256":  "3cc00f2aa6d59a230467198b33b68db9b0b6ada4855998231485299bfceafa9c"
-                  },
-                  {
-                      "prefix":  "82675d7d",
-                      "path":  "mods/82675d7d_【tweakroo前置】mafglib-0.4.3+mc1.21.1.jar",
-                      "sha256":  "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
-                  },
-                  {
-                      "prefix":  "82850cf4",
-                      "path":  "mods/82850cf4_【机械动力：创想附加】createaddition-1.5.11.jar",
-                      "sha256":  "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
-                  },
-                  {
-                      "prefix":  "83420f88",
-                      "path":  "mods/83420f88_【机械动力：内饰】interiors-1.21.1-neoforge-0.6.1.jar",
-                      "sha256":  "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
-                  },
-                  {
-                      "prefix":  "845fadd4",
-                      "path":  "mods/845fadd4_[现代化修复] modernfix-neoforge-5.27.11+mc1.21.1.jar",
-                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
-                  },
-                  {
                       "prefix":  "8461d9a8",
                       "path":  "mods/8461d9a8_【军武】mianbao\u0027s modernwarfare-1.2.0-neoforge-1.21.1.jar",
                       "sha256":  "35b9f357528fb78bbd306c3bf78b0ee25c1b47bd60e227de68329298caa40449"
-                  },
-                  {
-                      "prefix":  "84940266",
-                      "path":  "mods/84940266_【引信】createsensors-1.0.1.jar",
-                      "sha256":  "c6bd26a54fdc1cd0c0aa9f0d36a984396c049c028d828279e2d1d1d97d12fefc"
                   },
                   {
                       "prefix":  "85cab7e6",
@@ -432,79 +846,14 @@
                       "sha256":  "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
                   },
                   {
-                      "prefix":  "8641307c",
-                      "path":  "mods/8641307c_[机械动力：伪装方块+] copycats-3.0.4+mc.1.21.1-neoforge.jar",
-                      "sha256":  "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
-                  },
-                  {
-                      "prefix":  "8805fcf8",
-                      "path":  "mods/8805fcf8_【紧凑传动】create_compact_transmission-1.0.6.jar",
-                      "sha256":  "ff473c30977840b6073d59d4712d0e0e9d1b98900f09d177c96c71e350a4304c"
-                  },
-                  {
-                      "prefix":  "8903940d",
-                      "path":  "mods/8903940d_【逻辑门】create_circuits-1.0.0.jar",
-                      "sha256":  "b32ba0db23c17d6416010f9e477ea0f6a6c79f8ec066d8fb1acb51e32f64ada4"
-                  },
-                  {
-                      "prefix":  "8f749da2",
-                      "path":  "mods/8f749da2_【坐标导航】aeronautscompass-1.1.0.jar",
-                      "sha256":  "41a07b62d22eac822c291289cd5b27a6d761d958e037ee1ad7d4b13da9a23b7e"
-                  },
-                  {
-                      "prefix":  "8fca1427",
-                      "path":  "mods/8fca1427_【灯】Design-n-Decor-1.21.1-2.2b.jar",
-                      "sha256":  "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
-                  },
-                  {
-                      "prefix":  "8ff72eb9",
-                      "path":  "mods/8ff72eb9_【航空学元件，修改】aero_reformation-1.1.4.jar",
-                      "sha256":  "71f308e24d02b4ddff81f8a8bf2bb51a42fbb4762478c2b0c7021a951dfdc3b6"
-                  },
-                  {
-                      "prefix":  "91b782c5",
-                      "path":  "mods/91b782c5_【森罗物语：酒馆】kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
-                      "sha256":  "938c8825ec42613cf148b11e672008b96ec10f3f7c9335ef54627edce944b5f3"
-                  },
-                  {
-                      "prefix":  "925fe187",
-                      "path":  "mods/925fe187_【摄像机前置】CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
-                      "sha256":  "ba59a5a0afaba5d7d70c4b5844df2952696af1d5040c800916bd3479a73487c0"
-                  },
-                  {
-                      "prefix":  "926bbdc4",
-                      "path":  "mods/926bbdc4_【航空学元件】hotstuff-1.1.4.jar",
-                      "sha256":  "df4393c96368ca9b50a9bf0142f40a4e81ae77454edb5c8900b83247539f0892"
-                  },
-                  {
                       "prefix":  "93ea9a0b",
                       "path":  "mods/93ea9a0b_【黏轮】stickywheels-1.21.1-0.0.2.jar",
                       "sha256":  "81409c36b6c340e7342cfb2ff65a18e9dbdb49e61be93c7c7650e1dc6f6fc29f"
                   },
                   {
-                      "prefix":  "96a952ba",
-                      "path":  "mods/96a952ba_createbetterfps-1.21.1-1.1.4.jar",
-                      "sha256":  "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
-                  },
-                  {
                       "prefix":  "96e91fae",
                       "path":  "mods/96e91fae_【军武】advanced-armor-neoforge-1.9.4.jar",
                       "sha256":  "cf39395465d3b8d25416da938a2f42f668bbdd55e5fd4b76282e741aa53e3a13"
-                  },
-                  {
-                      "prefix":  "98f11b7a",
-                      "path":  "mods/98f11b7a_[火花] spark-1.10.124-neoforge.jar",
-                      "sha256":  "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
-                  },
-                  {
-                      "prefix":  "9c7c3e80",
-                      "path":  "mods/9c7c3e80_【彩灯】fairylights-neoforge-1.21.1-1.2.5.jar",
-                      "sha256":  "50516791b25aff735a56981463a251d06d2c5f0953db4bd7d2610d44b5ca9d56"
-                  },
-                  {
-                      "prefix":  "9d67506f",
-                      "path":  "mods/9d67506f_【创世神】worldedit-mod-7.3.8.jar",
-                      "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
                   },
                   {
                       "prefix":  "9f1b19e6",
@@ -517,54 +866,9 @@
                       "sha256":  "44713477390baa425ec140dc25578d978d0b35989a70a4c6618ec03adfaeea50"
                   },
                   {
-                      "prefix":  "a57d6a87",
-                      "path":  "mods/a57d6a87_【农夫乐事】FarmersDelight-1.21.1-1.3.2.jar",
-                      "sha256":  "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
-                  },
-                  {
-                      "prefix":  "a5b090c4",
-                      "path":  "mods/a5b090c4_【推进器，杂项】createthrusters-bundled-0.1.10.jar",
-                      "sha256":  "c1d528230dbc9f3034fd191c479c1b624b350d57275c978cb0f1f28bb18bfbc6"
-                  },
-                  {
-                      "prefix":  "b0549255",
-                      "path":  "mods/b0549255_【音频播放】createmoderntech-1.0.2.jar",
-                      "sha256":  "783988804ff8ef709bc38c1a6f87e7b8494001e82d218eff6644bee3402efeb5"
-                  },
-                  {
-                      "prefix":  "b08136ee",
-                      "path":  "mods/b08136ee_[方块建模] yuushya_modelling-1.21.1-2.4.1 (1).jar",
-                      "sha256":  "eede4bd24a1b20aeb007c03761903aed8061b9b826dc68349a8ca146c9944ae5"
-                  },
-                  {
-                      "prefix":  "b1b8e531",
-                      "path":  "mods/b1b8e531_【机械动力：雷达】create_radar-0.4.9.2-1.21.1.jar",
-                      "sha256":  "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe"
-                  },
-                  {
-                      "prefix":  "b2e1ac0d",
-                      "path":  "mods/b2e1ac0d_createdeco-2.1.3.jar",
-                      "sha256":  "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
-                  },
-                  {
-                      "prefix":  "b9d03347",
-                      "path":  "mods/b9d03347_yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-                      "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
-                  },
-                  {
                       "prefix":  "bf17e568",
                       "path":  "mods/bf17e568_[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar",
                       "sha256":  "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
-                  },
-                  {
-                      "prefix":  "c5996db2",
-                      "path":  "mods/c5996db2_sablejade-1.1.0.jar",
-                      "sha256":  "4dd8f4c4da084a4287c6ef067ae1b017186bd176aad90b0d433d89c759fb1369"
-                  },
-                  {
-                      "prefix":  "c71a12be",
-                      "path":  "mods/c71a12be_[方块小镇] yuushya-1.21.0-neoforge-2.3.0 (1).jar",
-                      "sha256":  "c410c51e1ecdd9d3ff55eb34b84d71da761a8990ec0993a766c9ba40e8c360e8"
                   },
                   {
                       "prefix":  "c7510313",
@@ -587,21 +891,6 @@
                       "sha256":  "595bebd893b425b278e9f29bd76b00447ef1ccee279b3aa92c1cf9eae6fc9631"
                   },
                   {
-                      "prefix":  "ca2219ac",
-                      "path":  "mods/ca2219ac_[机械动力：流光溢彩] createprism-1.2.2.jar",
-                      "sha256":  "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa"
-                  },
-                  {
-                      "prefix":  "cd9744c8",
-                      "path":  "mods/cd9744c8_【火炮后坐力】cbc_equally_opposite-0.1.3.jar",
-                      "sha256":  "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159"
-                  },
-                  {
-                      "prefix":  "cdc8f864",
-                      "path":  "mods/cdc8f864_iris-neoforge-1.8.12+mc1.21.1.jar",
-                      "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
-                  },
-                  {
                       "prefix":  "cfc7d4e1",
                       "path":  "mods/cfc7d4e1_【打字机放进饰品栏】CreateAeronauticsCuriosLinkedTypewriter-1.21.1-1.0.1.jar",
                       "sha256":  "d827f52694ea7c2bfeba5e6fa55b19232dd61111cfa4206468dfcfeb1aa7b846"
@@ -612,109 +901,14 @@
                       "sha256":  "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322"
                   },
                   {
-                      "prefix":  "d4369cb6",
-                      "path":  "mods/d4369cb6_【装饰】chipped-neoforge-1.21.1-4.0.2.jar",
-                      "sha256":  "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
-                  },
-                  {
-                      "prefix":  "d87b49d7",
-                      "path":  "mods/d87b49d7_iris-flywheel-compat-NeoForge-2.4.0.jar",
-                      "sha256":  "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
-                  },
-                  {
-                      "prefix":  "d8f032a5",
-                      "path":  "mods/d8f032a5_curios-neoforge-9.5.1+1.21.1.jar",
-                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
-                  },
-                  {
-                      "prefix":  "db365b54",
-                      "path":  "mods/db365b54_irisveil-0.1.0.jar",
-                      "sha256":  "e1b5540daff9837b62e95d33504e16ef4fc4f9e3fc5c55bc13984b1a46713f95"
-                  },
-                  {
-                      "prefix":  "dcac6d58",
-                      "path":  "mods/dcac6d58_【鈇】flerovium-neoforge-1.21.1-1.0.18-all.jar",
-                      "sha256":  "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb"
-                  },
-                  {
                       "prefix":  "dd004f7a",
                       "path":  "mods/dd004f7a_【钠】sodium-neoforge-0.6.13+mc1.21.1.jar",
                       "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
                   },
                   {
-                      "prefix":  "df4e409f",
-                      "path":  "mods/df4e409f_【网络音乐机：登登你的】net_music_login_need-1.21.1-0.4.jar",
-                      "sha256":  "b8ca1ed4cf2f389a011767e340f607e9caa224ef692725aa33e391e6fe0b8085"
-                  },
-                  {
-                      "prefix":  "dfd25399",
-                      "path":  "mods/dfd25399_[Xaero的小地图] xaerominimap-neoforge-1.21.1-25.3.13.jar",
-                      "sha256":  "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
-                  },
-                  {
                       "prefix":  "e2b47db4",
                       "path":  "mods/e2b47db4_tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar",
                       "sha256":  "d3c021423b6506fd23cec0a947e5c562cf233b4f099356d405940087cda7aa45"
-                  },
-                  {
-                      "prefix":  "e2e6a345",
-                      "path":  "mods/e2e6a345_【锦致前置】moonlight-neoforge-1.21.1-3.0.16.jar",
-                      "sha256":  "6677fa40f61b507bf6b22c882a169049ba7de7d5546d3374903cf0a43d761fed"
-                  },
-                  {
-                      "prefix":  "e30b0d86",
-                      "path":  "mods/e30b0d86_[JEI物品管理器] jei-1.21.1-neoforge-19.27.0.340.jar",
-                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
-                  },
-                  {
-                      "prefix":  "e591663b",
-                      "path":  "mods/e591663b_createbigcannons-5.11.3-mc.1.21.1.jar-机械动力：火炮.jar",
-                      "sha256":  "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
-                  },
-                  {
-                      "prefix":  "e6aebd03",
-                      "path":  "mods/e6aebd03_WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
-                      "sha256":  "f676811a713a7959d835cbfaba8e3ef761ab4cabbc61d240bd59ae2461d9c5cb"
-                  },
-                  {
-                      "prefix":  "e6ce1d8f",
-                      "path":  "mods/e6ce1d8f_create-aeronautics-bundled-1.21.1-1.2.1.jar",
-                      "sha256":  "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
-                  },
-                  {
-                      "prefix":  "eb9642ad",
-                      "path":  "mods/eb9642ad_[CMD 指令摄影机] CMDCam_NEOFORGE_v2.2.8_mc1.21.1.jar",
-                      "sha256":  "9d7fe7ea92cd9f48f9ba913e9a3afd6db85c22774c903bd9ce29088d838d7aa8"
-                  },
-                  {
-                      "prefix":  "ede1a627",
-                      "path":  "mods/ede1a627_[高级备份] AdvancedBackups-neoforge-1.21-3.7.1.jar",
-                      "sha256":  "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
-                  },
-                  {
-                      "prefix":  "f1487802",
-                      "path":  "mods/f1487802_bits_n_bobs-0.0.44.jar",
-                      "sha256":  "6d8268d82cc6e38dd13f5247b28f37b7a35d66cb476c6e0632f4e9ba5570f5d8"
-                  },
-                  {
-                      "prefix":  "f68eda0e",
-                      "path":  "mods/f68eda0e_【工具枪】create_aeronautics_toolgun-0.2.0.jar",
-                      "sha256":  "506a0db3f4f17f55ae32e09254ee7b201be784fca686cb749286b21ad024c995"
-                  },
-                  {
-                      "prefix":  "f7493ab5",
-                      "path":  "mods/f7493ab5_【万用皮肤补丁】CustomSkinLoader_Universal-14.28.jar",
-                      "sha256":  "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894"
-                  },
-                  {
-                      "prefix":  "f9f32150",
-                      "path":  "mods/f9f32150_Jade-VS-neoforge-1.21.1-2.0.0.jar",
-                      "sha256":  "24bb0565c63e8647b2a458786b4c6e6831ea1a98c6cb2e6a6e668b2f0f770742"
-                  },
-                  {
-                      "prefix":  "fa53b47b",
-                      "path":  "mods/fa53b47b_【玩家动作】player-animation-lib-forge-2.0.4+1.21.1.jar",
-                      "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
                   },
                   {
                       "prefix":  "fc1031db",
@@ -725,20 +919,15 @@
                       "prefix":  "fc77badf",
                       "path":  "mods/fc77badf_【飞控】create_flight_control-neoforge-0.3.0.jar",
                       "sha256":  "4f9f046bff9e9588aa0855ae657d5d1aeeaa84d02ab1e5fa01a6dcfef5fbc6ec"
-                  },
-                  {
-                      "prefix":  "fc879241",
-                      "path":  "mods/fc879241_【太空战】space_war_aeronautics-0.1.4.jar",
-                      "sha256":  "21df4ab100078c035aab909bc022482e7ed9b31c8907c7a69845091a95f48083"
-                  },
-                  {
-                      "prefix":  "fcdb77a8",
-                      "path":  "mods/fcdb77a8_sable-neoforge-1.21.1-1.2.2.jar",
-                      "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
                   }
               ],
     "remove":  [
 
                ],
-    "version":  "1.0.12"
+    "version":  "1.0.17",
+    "sourceStats":  {
+                        "modrinth":  92,
+                        "curseforge":  0,
+                        "github":  55
+                    }
 }
