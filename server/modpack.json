@@ -1,5 +1,5 @@
 {
-    "changelog":  "v1.0.6 (2026-06-01 00:40)\r\n\r\nRemoved (1):\r\n  -",
+    "changelog":  "v1.0.7 (2026-06-01 00:46)\r\n\r\nAdded (1):\r\n  + 5a105e8b_test1.jar",
     "files":  [
                   {
                       "prefix":  "011a8b84",
@@ -735,10 +735,15 @@
                       "prefix":  "fcdb77a8",
                       "path":  "mods/fcdb77a8_sable-neoforge-1.21.1-1.2.2.jar",
                       "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+                  },
+                  {
+                      "prefix":  "5a105e8b",
+                      "path":  "mods/5a105e8b_test1.jar",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
                   }
               ],
     "remove":  [
-                   null
+
                ],
-    "version":  "1.0.6"
+    "version":  "1.0.7"
 }
