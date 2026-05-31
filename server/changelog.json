@@ -1,43 +1,43 @@
 [
     {
         "removed":  [
-
+                        null
                     ],
-        "version":  "1.0.7",
+        "version":  "1.0.8",
         "updated":  [
 
                     ],
-        "changelog":  "v1.0.7 (2026-06-01 00:46)\r\n\r\nAdded (1):\r\n  + 5a105e8b_test1.jar",
-        "date":  "2026-06-01 00:46",
+        "changelog":  "v1.0.8 (2026-06-01 00:47)\r\n\r\nRemoved (1):\r\n  -",
+        "date":  "2026-06-01 00:47",
         "added":  [
-                      "5a105e8b_test1.jar"
+
                   ]
     },
     {
         "value":  [
                       {
                           "removed":  [
-                                          null
+
                                       ],
-                          "version":  "1.0.6",
+                          "version":  "1.0.7",
                           "updated":  [
 
                                       ],
-                          "changelog":  "v1.0.6 (2026-06-01 00:40)\r\n\r\nRemoved (1):\r\n  -",
-                          "date":  "2026-06-01 00:40",
+                          "changelog":  "v1.0.7 (2026-06-01 00:46)\r\n\r\nAdded (1):\r\n  + 5a105e8b_test1.jar",
+                          "date":  "2026-06-01 00:46",
                           "added":  [
-
+                                        "5a105e8b_test1.jar"
                                     ]
                       },
                       {
                           "value":  [
                                         {
                                             "removed":  "",
-                                            "version":  "1.0.5",
+                                            "version":  "1.0.6",
                                             "updated":  "",
-                                            "changelog":  "v1.0.5 (2026-06-01 00:37)\r\n\r\nAdded (1):\r\n  + 5a105e8b_test1.jar",
-                                            "date":  "2026-06-01 00:37",
-                                            "added":  "5a105e8b_test1.jar"
+                                            "changelog":  "v1.0.6 (2026-06-01 00:40)\r\n\r\nRemoved (1):\r\n  -",
+                                            "date":  "2026-06-01 00:40",
+                                            "added":  ""
                                         },
                                         {
                                             "value":  " ",
